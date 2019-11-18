@@ -1,0 +1,15 @@
+{
+  "docs": {
+    "Getting Started": ["intro", "resources"],
+    "Buying SNX": ["buying-snx"],
+    "Staking SNX": [
+      "staking-snx-overview",
+      "how-to-stake",
+      "claiming-rewards",
+      "staking-strategies"
+    ],
+    "Trading Synths": ["trading-synths", "how-to-trade"],
+    "Uniswap Pools": ["seth-pool", "arb-pool"],
+    "Initiatives": ["eth-as-collateral", "chainlink-oracles"]
+  }
+}
