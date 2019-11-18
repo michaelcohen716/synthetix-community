@@ -34,7 +34,7 @@ Global SNX rewards are determined by the SNX inflation schedule. As of November 
 
 If you are below the target `C-RATIO`, you will not be penalized. You just won't be able to claim your rewards.
 
-Your proportion of global debt is calculated based on a `snapshot` of the network taken every Wednesday.
+Your proportion of global debt is calculated based on a `snapshot` of the network taken every Wednesday at roughly 09:00 UTC.
 
 ## Calculating Returns
 Returns are a function of Synthetix Exchange volume, the current inflation schedule, and an individual staker's proportion of global minted debt. <a href="https://www.stakingrewards.com/asset/synthetix-network-token" class="link" target="_blank">Staking Rewards</a> provides an approximation of expected SNX returns, but it may not include the value of sUSD returns.

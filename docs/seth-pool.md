@@ -21,7 +21,7 @@ As of November 2019, the ETH/sETH pool is the largest on Uniswap by far, owing l
 - Ensure that you've collected at least 1 <a href="https://etherscan.io/token/0xe9cf7887b93150d4f2da7dfc6d502b216438f244" target="_blank" class="link">liquidity token</a> from the pool. You'll be ineligible for rewards if you have fewer
 
 ## Rewards Calculations
-Synthetix distributes 5% of weekly inflation to liquidity providers. As of November 2019, 72,000 SNX are distributed weekly, but this figure will decline gradually as the inflation schedule progresses. The team takes a snapshot of active stakers each Wednesday to determine pro rata allocations. 
+Synthetix distributes 5% of weekly inflation to liquidity providers. As of November 2019, 72,000 SNX are distributed weekly, but this figure will decline gradually as the inflation schedule progresses. The team takes a snapshot of active stakers each Wednesday at roughly 09:00 UTC to determine pro rata allocations. 
 
 <a href="https://docs.google.com/spreadsheets/d/14qQKeprY3IQBT2p-jDrnKMBKNpOh0-rRDZSlBwBYXV0/edit#gid=459184262" class="link" target="_blank">This spreadsheet</a> has week-to-week reward calculations
 
