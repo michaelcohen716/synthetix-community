@@ -59,6 +59,14 @@
       "trading-synths": {
         "title": "Trading Overview",
         "sidebar_label": "Overview"
+      },
+      "transacting": {
+        "title": "Transacting",
+        "sidebar_label": "Transacting"
+      },
+      "transferring-snx": {
+        "title": "Transferring SNX",
+        "sidebar_label": "Transferring SNX"
       }
     },
     "links": {
@@ -71,7 +79,8 @@
       "Staking SNX": "Staking SNX",
       "Trading Synths": "Trading Synths",
       "Uniswap Pools": "Uniswap Pools",
-      "Initiatives": "Initiatives"
+      "Initiatives": "Initiatives",
+      "Troubleshooting": "Troubleshooting"
     }
   },
   "pages-strings": {

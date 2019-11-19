@@ -10,6 +10,7 @@
     ],
     "Trading Synths": ["trading-synths", "how-to-trade"],
     "Uniswap Pools": ["seth-pool", "arb-pool"],
-    "Initiatives": ["eth-as-collateral", "chainlink-oracles"]
+    "Initiatives": ["eth-as-collateral", "chainlink-oracles"],
+    "Troubleshooting": ["transacting", "transferring-snx"]
   }
 }
