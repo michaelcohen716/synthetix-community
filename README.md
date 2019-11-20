@@ -1,9 +1,9 @@
 # Synthetix Community
 
-<div style="display: flex; margin: auto; padding-bottom: 20px">
+*Community Managed Synthetix Page*
+
 <img src="static/img/favicon.png">
-<code style="margin-top: 49px; margin-left: 10px">Community Managed Synthetix Page</code>
-</div>
+
 
 ## Steps to Edit the Docs
 1. Fork this repo
