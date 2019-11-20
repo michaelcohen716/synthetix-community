@@ -1,7 +1,7 @@
 # Synthetix Community
 
 <div style="display: flex; margin: auto; padding-bottom: 20px">
-<img src="static/img/favicon.ico">
+<img src="static/img/favicon.png">
 <code style="margin-top: 49px; margin-left: 10px">Community Managed Synthetix Page</code>
 </div>
 
