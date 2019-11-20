@@ -6,3 +6,5 @@ https://etherscan.io/address/0x2499e7259594044D7Cc0a6fe27F4935d62ef1dbF#writeCon
 
 - inflation schedule
 https://docs.google.com/spreadsheets/d/1x2YB-JfKqzzhTgQasAhX1S-VWG2yJlKFkaHzVubhGtk/edit#gid=51157619
+- v2 skale
+- is snx liquid

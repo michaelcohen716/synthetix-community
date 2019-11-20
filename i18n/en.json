@@ -33,9 +33,17 @@
         "title": "How to Trade",
         "sidebar_label": "How to Trade"
       },
+      "intro-overview": {
+        "title": "Project Overview",
+        "sidebar_label": "Project Overview"
+      },
       "intro": {
         "title": "Intro",
         "sidebar_label": "Intro"
+      },
+      "layer-2": {
+        "title": "Layer 2",
+        "sidebar_label": "Layer 2"
       },
       "resources": {
         "title": "Resources",

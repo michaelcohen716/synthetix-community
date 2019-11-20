@@ -11,3 +11,4 @@ The community is discussing the idea of adding ETH as an alternate collateral ty
 
 There was a <a href="https://github.com/Synthetixio/synthetix/issues/232" target="_blank" class="link">lengthy discussion</a> of the pros and cons on the Synthetix Github issues page.
 
+Crucially, ETH collateral stakers will not be eligible for staking rewards. Fees will be directed into the SNX stakers rewards pool.

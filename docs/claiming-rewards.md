@@ -22,6 +22,10 @@ A common strategy to keep `C-RATIO` fairly stable is to use the sUSD you've mint
 
 If a staker mints sUSD and doesn't trade it, they are effectively short the global portfolio, because they're exposed to an increase in global debt without a potential increase in synth holdings. There's nothing wrong with this market positioning, but some beginner stakers don't realize that they're exposed to the global portfolio.
 
+Delphi Research has a series of detailed examples on the system's debt mechanics in their report on SNX (behind paywall). See one below:
+
+<img src="assets/debt-example.png" width="50%">
+
 
 ## How are rewards calculated?
 There are two components to rewards: sUSD and SNX.
