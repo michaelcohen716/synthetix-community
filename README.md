@@ -7,7 +7,7 @@
 
 ## Steps to Edit the Docs
 1. Fork this repo
-2. Check out a new branch
+2. Clone to your desktop and check out a new branch
 3. Make edits
 4. Submit a pull request
 
