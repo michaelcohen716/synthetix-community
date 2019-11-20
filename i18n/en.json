@@ -33,6 +33,10 @@
         "title": "How to Trade",
         "sidebar_label": "How to Trade"
       },
+      "inflation-schedule": {
+        "title": "Inflation Schedule",
+        "sidebar_label": "Inflation Schedule"
+      },
       "intro-overview": {
         "title": "Project Overview",
         "sidebar_label": "Project Overview"
@@ -40,6 +44,14 @@
       "intro": {
         "title": "Intro",
         "sidebar_label": "Intro"
+      },
+      "inverse-synths": {
+        "title": "Inverse Synths",
+        "sidebar_label": "Inverse Synths"
+      },
+      "is-snx-liquid": {
+        "title": "Is SNX Liquid?",
+        "sidebar_label": "Is SNX Liquid?"
       },
       "layer-2": {
         "title": "Layer 2",
@@ -88,6 +100,7 @@
       "Trading Synths": "Trading Synths",
       "Uniswap Pools": "Uniswap Pools",
       "Initiatives": "Initiatives",
+      "Miscellaneous": "Miscellaneous",
       "Troubleshooting": "Troubleshooting"
     }
   },

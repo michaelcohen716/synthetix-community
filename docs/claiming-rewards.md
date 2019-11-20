@@ -22,7 +22,7 @@ A common strategy to keep `C-RATIO` fairly stable is to use the sUSD you've mint
 
 If a staker mints sUSD and doesn't trade it, they are effectively short the global portfolio, because they're exposed to an increase in global debt without a potential increase in synth holdings. There's nothing wrong with this market positioning, but some beginner stakers don't realize that they're exposed to the global portfolio.
 
-Delphi Research has a series of detailed examples on the system's debt mechanics in their report on SNX (behind paywall). See one below:
+<a href="https://www.delphidigital.io/research" target="_blank" class="link">Delphi Research</a> has a series of detailed examples on the system's debt mechanics in their report on SNX (behind paywall). See one below:
 
 <img src="assets/debt-example.png" width="50%">
 
@@ -34,7 +34,7 @@ When a trader transacts on Synthetix Exchange, they pay a 0.3% fee. Those fees a
 
 The more sUSD you've minted, the higher proportion of fees you'll receive. 
 
-Global SNX rewards are determined by the SNX inflation schedule. As of November 2019, 90% of weekly inflation is allocated toward staking rewards. More on Synthetix's <a class="link" target="_blank" href="https://blog.synthetix.io/synthetix-monetary-policy-changes/">monetary policy here</a>. Starting in late 2019 or early 2020, inflation will begin to gradually decline from 75% annualized to roughly 3% per week in 2024. More info on <a href="https://github.com/Synthetixio/SIPs/issues/36" target="_blank" class="link">inflation smoothing here</a>.
+Global SNX rewards are determined by the SNX inflation schedule. As of November 2019, 90% of weekly inflation is allocated toward staking rewards. More on Synthetix's <a class="link" target="_blank" href="https://blog.synthetix.io/synthetix-monetary-policy-changes/">monetary policy here</a>. 
 
 If you are below the target `C-RATIO`, you will not be penalized. You just won't be able to claim your rewards.
 
