@@ -57,6 +57,10 @@
         "title": "Layer 2",
         "sidebar_label": "Layer 2"
       },
+      "memes": {
+        "title": "Memes",
+        "sidebar_label": "Memes"
+      },
       "resources": {
         "title": "Resources",
         "sidebar_label": "Resources"

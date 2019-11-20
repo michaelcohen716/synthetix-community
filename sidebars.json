@@ -11,7 +11,12 @@
     "Trading Synths": ["trading-synths", "how-to-trade"],
     "Uniswap Pools": ["seth-pool", "arb-pool"],
     "Initiatives": ["eth-as-collateral", "chainlink-oracles", "layer-2"],
-    "Miscellaneous": ["is-snx-liquid", "inflation-schedule", "inverse-synths"],
+    "Miscellaneous": [
+      "is-snx-liquid",
+      "inflation-schedule",
+      "inverse-synths",
+      "memes"
+    ],
     "Troubleshooting": ["transacting", "transferring-snx"]
   }
 }
