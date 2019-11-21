@@ -1,16 +1,16 @@
 ---
-id: intro-overview
-title: Project Overview
-sidebar_label: Project Overview
+id: intro-visión general
+title: c
+sidebar_label: Visión General
 ---
 
-Synthetix is a new flavor of decentralized exchange. There are three key differences relative to most other DEXes:
-- Traders trade against pooled community collateral and not any specific counterparty
-- Traders buy and sell *synthetic* assets, marked to market by offchain oracles
-- Traders have native access to derivatives and investable baskets
+Synthetix es un nuevo tipo de exchange descentralizado. Hay tres diferencias clave en relación con la mayoría de los otros DEXs:
+- Traders operan contra colateral combinado de la comunidad y no contra una contrparte específica
+- Traders compran y venden activos *sintéticos*, *synthetic* assets, ofrecidos al mercado por oráculos offline
+- Traders tienen acceso nativo a derivados y canastas de inversión
 
-The SNX token acts as a foundation and backbone for this model. Before traders can participate, SNX investors stake their tokens to mint liquidity for the network. When traders execute a transaction, they pay a fee to trade against the stakers. A trader's profit adds to the global debt pool and a trader's loss subtracts from it.
+El token SNX actúa como la base y columna vertebral para este modelo. Antes que los traders puedan participar, inversores en SNX depositan sus tokens en "prueba de participación/staking" para emitir liquidez para la red. Cuando un trader ejecuta una transacción, paga una tarifa de negociación para operar contra los stakers. Las ganancias de un trader se suma al conjunto de la deuda global y las pérdidas se sustraen.
 
-The project is still in its early days and is largely untested. However, as of November 2019, nearly 80% of circulating tokens are currently staked to the network, and ~$600 million of volume has been registered on the exchange. 
+El proyecto todavía se encuentra en sus inicios y aún no ha sido probado lo suficiente. De todos modos, hasta Noviembre de 2019, casi el 80% de los tokens en circulación están depositados en la red, y en el exchange se ha registrado un volumen de ~$600 millones. 
 
-The project is also highly complex, and hopefully these docs can serve as an entry point for new investors, stakers and traders. Check out the resources page to get started or a specific section to get clarity on a feature.
+El proyecto es también es de alta complejidad, y esperamos que esta documentación pueda servir de punto de entrada para nuevos inversores, stakers y traders. Lea la página de recursos para comenzar o cualquier sección específica para obtener clarificación sobre alguna característica o función del proyecto.
