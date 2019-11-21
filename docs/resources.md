@@ -29,10 +29,15 @@ sidebar_label: Resources
 
 - **<a class="link" target="_blank" href="http://synthetixstats.com/">SynthetixStats</a>**: Data and visualizations of exchange fees, volume and synth activity
 
+
+## Investment Reports & Analysis
+
+- **<a class="link" target="_blank" href="https://thedefiant.substack.com/p/balance-sheet-as-a-business-model">Framework Ventures Investment Thesis</a>**: Balance Sheet as a Business Model
+
 - **<a class="link" target="_blank" href="https://medium.com/fitzner-blockchain-consulting/token-tuesdays-synthetix-snx-5244a17273f2">Fitzner Valuation Analysis</a>**: Analysis of the project and token economics
 
 - **<a class="link" target="_blank" href="https://sigilfund.com/research/synthetix-io-sigil-research/">Sigil Research Report</a>**: Analysis of the project and token economics
 
-- **<a class="link" target="_blank" href="https://fiftyonepercent.podbean.com/e/synthetixs-kain-warwick-how-ethereum-will-absorb-a-trillion-dollar-market/">Delphi Digital Podcast</a>**: Interview with Synthetix founder, Kain
+## Press
 
-- **<a class="link" target="_blank" href="https://thedefiant.substack.com/p/balance-sheet-as-a-business-model">Framework Ventures Investment Thesis</a>**: Balance Sheet as a Business Model
+- **<a class="link" target="_blank" href="https://fiftyonepercent.podbean.com/e/synthetixs-kain-warwick-how-ethereum-will-absorb-a-trillion-dollar-market/">Delphi Digital Podcast</a>**: Interview with Synthetix founder, Kain
