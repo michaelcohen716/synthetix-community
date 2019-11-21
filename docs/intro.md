@@ -1,11 +1,11 @@
 ---
-id: intro
-title: Intro
-sidebar_label: Intro
+id: introducción
+title: Introducción
+sidebar_label: Introducción
 ---
 
-Some notes before getting started:
-- These docs assume some knowledge of Ethereum and Web3 technology
-- These docs are managed by the Synthetix Community and are not the official docs prepared by the Synthetix core team
-- These docs are not financial advice
-- If you'd like to change, update or add *anything*, don't hesistate to submit a pull request on the <a href="https://github.com/michaelcohen716/synthetix-community" target="_blank" class="link">Github repo</a>
+Notas antes de comenzar:
+- Los siguientes documentos asumen que se tienen conocimientos de Ethereum y Web3
+- Estos documentos son administrados por la Comunidad Synthetix y no son los documentos oficiales preparados por el equipo de Synthetix
+- Estos documentos no son asesoría financiera
+- Si usted desea hacer cambios, actualizar o añadir *cualquier cosa*, no dude en enviar una solicitud de extracción en el <a href="https://github.com/michaelcohen716/synthetix-community" target="_blank" class="link">Repositorio Github</a>
