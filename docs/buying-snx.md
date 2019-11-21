@@ -1,18 +1,18 @@
 ---
-id: buying-snx
-title: Buying SNX
-sidebar_label: How To Buy
+id: comprar-snx
+title: Comprar SNX
+sidebar_label: Como Comprar
 ---
 
-## From an Exchange
+## En un Exchange
 
-The easiest place to buy SNX is on <a target="_blank" class="link" href="https://uniswap.exchange">Uniswap</a>. It's decentralized, and there's no requirement to create an account or input personal information. As of November 2019, SNX volume on Uniswap exceeded the volume on any other exchange. More information about the Uniswap liquidity pool is available  <a href="https://pools.fyi/#/trades/0x3958b4ec427f8fa24eb60f42821760e88d485f7f" target="_blank" class="link">here</a>.  
+El lugar mas fácil donde comprar SNX es en <a target="_blank" class="link" href="https://uniswap.exchange">Uniswap</a>. Es descentralizado, y no requiere de la creación de una cuenta o de proveer información personal. En November 2019, el volumen de SNX en Uniswap supera ampliamente el volumen de otros exchanges. Más información sobre la pool de liquidez de SNX en Uniswap disponible <a href="https://pools.fyi/#/trades/0x3958b4ec427f8fa24eb60f42821760e88d485f7f" target="_blank" class="link">aquí</a>.  
 
-<a href="https://kyberswap.com/swap/eth-snx" target="_blank" class="link">Kyber</a> is another decentralized option. 
+<a href="https://kyberswap.com/swap/eth-snx" target="_blank" class="link">Kyber</a> otra opción descentralizada similar a Uniswap. 
 
-<a href="https://dex.ag/" target="_blank" class="link">DEX.AG</a> and <a href="https://1inch.exchange/#/" target="_blank" class="link">1Inch.exchange</a> are good decentralized aggregators designed to find the best price.
+<a href="https://dex.ag/" target="_blank" class="link">DEX.AG</a> y <a href="https://1inch.exchange/#/" target="_blank" class="link">1Inch.exchange</a> son buenos agregadores descentralizados diseñados para encontrar el mejor precio.
 
-<a href="https://www.kucoin.com/" target="_blank" class="link">Kucoin</a> is a more conventional centralized exchange option.
+<a href="https://www.kucoin.com/" target="_blank" class="link">Kucoin</a> es la opción convencional de exchange centralizado.
 
-## OTC
-For a cryptocurrency with SNX's market cap and community participation, the token is fairly illiquid, the reason being that most SNX are staked and thus locked. If you're looking to transact in size (i.e., at least 50,000 SNX), there is an OTC channel in the <a href="https://discordapp.com/channels/413890591840272394/615786216150925323" target="_blank" class="link">community Discord</a>. Post there to be matched with a counterparty. 
+## OTC. mercado secundario
+Para un criptoactivo con la capitalización de mercado y participacion comunitaria de SNX, la liquidez del token es baja, debido a que una gran mayoria de SNX están depositados en "pueba de participación/staking". Si usted busca una manera de operar en grandes cantidades (50.000 SNX o más), hay un canal OTC en el <a href="https://discordapp.com/channels/413890591840272394/615786216150925323" target="_blank" class="link">Discord de la comunidad</a>. Puede publicar su oferta allí. 
