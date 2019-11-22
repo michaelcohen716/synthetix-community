@@ -1,24 +1,23 @@
 ---
 id: how-to-stake
 title: Staking SNX
-sidebar_label: How to Stake
+sidebar_label: Staking-Cómo Participar
 ---
 
-## Basic Steps
+## Pasos Básicos
 
-- Transfer SNX to a compatible wallet: MetaMask, Trezor, Ledger and Coinbase Wallet are supported
-> Some stakers have reported difficulty staking and claiming with Ledger
-- Go to <a class="link" target="_blank" href="https://beta.mintr.synthetix.io/">Mintr</a>
-- Press `Max` to populate the maximum amount of sUSD you'll be able to mint, given your SNX holdings
-- Adjust the input amount to suit <a href="/docs/staking-strategies" class="link">your strategy</a>, press `Mint`, and confirm the transaction
+- Transferir SNX a una billetera compatible: hasta ahora MetaMask, Trezor, Ledger y Coinbase Wallet
+> Algunos stakers han reportado problemas con Ledger
+- Ir a <a class="link" target="_blank" href="https://beta.mintr.synthetix.io/">Mintr</a>. Conectar la billetera.
+- Click en "Acuñar", click `Max` para seleccionar la mayor cantidad de sUSD acuñables según la cantidad de SNX en posesión
+- Hacer ajustes en la cantidad, acorde con <a href="/docs/staking-strategies" class="link">su estrategia</a>, click `Acuñar Ahora`y confirmar la transacción.
 
-<a class="link" href="https://defitutorials.substack.com/p/the-ultimate-guide-to-synthetix" target="_blank">This article</a> has a section called *Being a Synthetix Minter* that walks through the steps with pictures.
+<a class="link" href="https://defitutorials.substack.com/p/the-ultimate-guide-to-synthetix" target="_blank">Este artículo</a>, en inglés, tiene una sección llamada *Being a Synthetix Minter* que lo guiará paso a paso con imágenes.
 
-## Mechanics
+## Mecánica
 
-Stakers can only mint sUSD at a minimum collateralization ratio of 750%. Minting the maximum amount on SNX holdings worth $750 will result in $100 of minted sUSD. For the network to remain secure and fully collateralized, the community has settled on a conservative `C-RATIO`. However, the ratio could change in the future.
+Stakers pueden acuñar sUSD solamente a una colateralización mínima de 750%. El acuñado del monto máximo para un staker que tiene SNX por valor de $750, resultará la emisión de sUSD por valor de $100. Con el fin de mantener la red lo más segura posible, la comunidad ha establecido una relación de colateralización, `C-RATIO`, bastante conservadora. Aunque la colateralización mínima puede cambiar en el futuro.
 
-The simple math behind staking is this: if the value of the SNX token increases, you'll be able to mint more. And if the value of the SNX token decreases, your minted value and <a href="/docs/claiming-rewards#managing-debt" class="link">contribution to global debt</a> will remain the same. However, a decrease in SNX value may complicate your ability to <a href="/docs/claiming-rewards" class="link">claim rewards</a>.
+La matemática detras del el proceso de staking es la siguiente: si el valor del token SNX aumenta, usted podrá acuñar más sUSD. Y si el valor del token SNX disminuye, su valor acuñado y <a href="/docs/claiming-rewards#managing-debt" class="link">contribución a la deuda global</a> se mantiene igual. Cabe notar que una disminución en el valor de SNX puede complicar su capacidad de <a href="/docs/claiming-rewards" class="link">reclamar sus ganancias</a>.
 
-
-You can add SNX to your wallet and stake more at any time, provided your collateralization ratio stays above or equal to 750%.
+Usted puede añadir SNX a su billetera y depositar en staking en cualquier momento, siempre y cuando su colateralización sea mayor a 750%.
