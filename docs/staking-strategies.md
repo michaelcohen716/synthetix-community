@@ -12,7 +12,7 @@ A neutral staker targets an initial `C-RATIO` of 775%-825%. If the value of SNX 
 
 
 ## Aggressive
-An aggresive staker mints the maximum amount of sUSD and continues to mint as the SNX value increases. If the SNX value decreases, the aggressive staker might need to hold a reserve of SNX or ETH to acquire enough SNX to restore the ratio in order to claim rewards. Alternatively, they may burn sUSD [ADD LINK] to bring their ratio back above 750%. The staker would use their minted sUSD in whichever way most reflects their market view. 
+An aggresive staker mints the maximum amount of sUSD and continues to mint as the SNX value increases. If the SNX value decreases, the aggressive staker might need to hold a reserve of SNX or ETH to acquire enough SNX to restore the ratio in order to claim rewards. Alternatively, they may <a href="/docs/transferring-snx#burning-susd" class="link">burn sUSD</a> to bring their ratio back above 750%. The staker would use their minted sUSD in whichever way most reflects their market view. 
 
 ## Hyper-Aggressive
 A hyper-aggressive staker mints the maximum sUSD and uses that sUSD to buy more SNX, then uses the new SNX to mint more sUSD to buy more SNX. This is super risky and may not end well. 

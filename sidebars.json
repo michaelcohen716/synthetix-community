@@ -15,6 +15,7 @@
       "is-snx-liquid",
       "inflation-schedule",
       "inverse-synths",
+      "sips-sccps",
       "memes"
     ],
     "Troubleshooting": ["transacting", "transferring-snx"]

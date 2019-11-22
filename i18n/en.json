@@ -69,6 +69,10 @@
         "title": "ETH/sETH Pool",
         "sidebar_label": "ETH/sETH Pool"
       },
+      "sips-sccps": {
+        "title": "SIPs & SCCPs",
+        "sidebar_label": "SIPs & SCCPs"
+      },
       "staking-snx-overview": {
         "title": "Staking Overview",
         "sidebar_label": "Overview"
