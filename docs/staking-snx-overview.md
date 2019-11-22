@@ -1,19 +1,19 @@
 ---
-id: staking-snx-overview
-title: Staking Overview
-sidebar_label: Overview
+id: staking-snx-vision-general
+title: Staking-Visión General
+sidebar_label: Visión General
 ---
 
-## Intro
-Staking is the process that converts the SNX token into pooled collateral for the network. When an investor stakes their tokens, they're `minting` sUSD to be used to trade for synthetic assets, whether by the staker or another investor. The staker can trade the sUSD for a synthetic asset on <a class="link" target="_blank" href="https://synthetix.exchange/">Synthetix Exchange</a> or exchange it for ETH or another ERC20 token on a variety of exchanges.
+## Introducción
+Staking/Prueba de Participacón es el proceso mediante el cual los tokens SNX, al ser depositados, se convierten en colateral combinado para la red. Cuando un inversor deposita sus SNX para staking, emite sUSD (USD sintético) para ser utilizado en el trading de activos sintéticos, ya sea por el staker o por otros inversores. Los sUSD emitidos pueden ser comerciados por otros sintéticos en <a class="link" target="_blank" href="https://synthetix.exchange/">Synthetix Exchange</a>, o pueden ser cambiados por ETH u otros tokens ERC20 en varios exchanges.
 
 
-## Why stake?
-Stakers earn weekly rewards for collateralizing the network. Without staking, an SNX investor can only profit from an increase in the price of the token. As of November 2019, about 80% of SNX tokens are staked. <a class="link" target="_blank" href="https://dashboard.synthetix.io/">Synthetix Dashboard</a> has up-to-date stats on the network, including the percentage of staked tokens. 
+## Por Qué Staking?
+Por participar y colateralizar la red con sus SNX, los Stakers ganan recompensas semanales. Si un tenedor de SNX no participa en staking, sólo puede obtener ganancias con el aumento del precio del token. Hasta Noviembre de 2019, alrededor del 80% de los tokens SNX están depositados en staking. En el <a class="link" target="_blank" href="https://dashboard.synthetix.io/">Synthetix Dashboard</a> están las estadísticas actualizadas del estado de la red, incluyendo el porcentaje de los tokens depositados en staking. 
 
 
-## Risk of staking
-The rewards stakers earn are absolutely not risk-free. The staker is providing collateral for traders to trade against. If traders are profitable, net of fees, stakers will lose out in the long term. In the early days, protocol incentives de-risk the staker's role to some extent, but this calculus can change at any point.
+## Riesgos de Staking
+Las ganancias por participar en staking no son en absoluto libres de riesgo. El staker provee colateralización contra la que los traders pueden operar. Si los traders obtienen ganancias despues de los costos de operación, los stakers sufrirán pérdidas a largo plazo. En los comienzos, los incentivos para stakers del protocolo mitigan este riesgo, pero eso puede cambiar en cuaquier momento.
 
-## Who can stake?
-Anyone who holds the SNX token. That said, if a staker holds less than 250-500 SNX, gas costs may exceed the benefit of staking rewards.
+## Quien Puede Participar en Staking?
+Cualquier tenedor de SNX. Aunque si un staker tiene menos de ~250 SNX, es posible también que los costos por transacciones superen los beneficios obtenidos.
