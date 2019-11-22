@@ -46,6 +46,9 @@ const siteConfig = {
     {blog: true, label: 'Blog'},
   ],
 
+  gaTrackingId: "UA-148019799-2",
+  gaGtag: true,
+
   // If you have users set above, you add it here:
   // users,
 
