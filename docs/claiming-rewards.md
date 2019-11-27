@@ -27,20 +27,20 @@ Si un participante (staker) "imprime" sUSD y no los intercambia, está efectivam
 <img src="assets/debt-example.png" width="50%">
 
 
-## How are rewards calculated?
-There are two components to rewards: sUSD and SNX.
+## ¿Cómo son calculadas las ganancias?
+Existen dos componentes que son utilizados como recompensa: sUSD y SNX.
 
-When a trader transacts on Synthetix Exchange, they pay a 0.3% fee. Those fees are distributed pro rata, to all stakers.
+Cuando un operador ejecuta una transacción en la Plataforma de Intercambio de Synthetix, paga una comisión del 0.3%. Estas comisiones son distribuidas de manera proporcional entre todos los participantes (stakers).
 
-The more sUSD you've minted, the higher proportion of fees you'll receive. 
+Mientras más sUSD usted haya "acuñado", mayor será la proporción de comisiones que reciba.
 
-Global SNX rewards are determined by the SNX inflation schedule. As of November 2019, 90% of weekly inflation is allocated toward staking rewards. More on Synthetix's <a class="link" target="_blank" href="https://blog.synthetix.io/synthetix-monetary-policy-changes/">monetary policy here</a>. 
+Las ganancias globales distribuidas en SNX están determinadas por el calendario de inflación del token. En Noviembre de 2019, el 90% de la inflación semanal es asignada a las recompensas por staking. Si desea consultar con más detalle la política monetaria de Synthetix puede hacerlo <a class="link" target="_blank" href="https://blog.synthetix.io/synthetix-monetary-policy-changes/">aquí</a>. 
 
-If you are below the target `C-RATIO`, you will not be penalized. You just won't be able to claim your rewards.
+Si usted se encuentra por debajo del `C-RATIO` necesario no será penalizado, solo no tendrá permitido reclamar sus ganancias.
 
-Your proportion of global debt is calculated based on a `snapshot` of the network taken every Wednesday at roughly 09:00 UTC.
+Su proporción de deuda global es calculada basada en una captura (`snapshot`) de la red tomada cada Miércoles aproximadamente a las 09:00 UTC.
 
-## Calculating Returns
-Returns are a function of Synthetix Exchange volume, the current inflation schedule, and an individual staker's proportion of global minted debt. <a href="https://www.stakingrewards.com/asset/synthetix-network-token" class="link" target="_blank">Staking Rewards</a> provides an approximation of expected SNX returns, but it may not include the value of sUSD returns.
+## Calculando Rendimientos
+Los rendimientos son una función del volumen de la Plataforma de Intercambio de Synthetix, el calendario de inflación actual y la proporción individual de participación (staking) con respecto a la deuda global emitida. <a href="https://www.stakingrewards.com/asset/synthetix-network-token" class="link" target="_blank">Staking Rewards</a> brinda una aproximación del rendimiento estimado para SNX, sin embargo, puede no incluir el valor de los rendimientos para sUSD.
 
 
