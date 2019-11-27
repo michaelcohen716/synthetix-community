@@ -1,10 +1,9 @@
 ---
 id: eth-como-colateral
-title: Ether como colateral
+title: Ether como Colateral
 sidebar_label: Ether como Colateral
 ---
-
-One limitation of the Synthetix system is that the total value of all synthetics is capped by the SNX token itself. As of November 2019, the SNX market cap is about $150 million. At a 750% `C-RATIO`, the maximum synthetics value is about $20 million. Up-to-date stats are available on <a href="https://dashboard.synthetix.io/" class="link" target="_blank">Dashboard</a>
+Una limitación del sistema Synthetix es que el valor total de todos los sintéticos está restringido por el propio token SNX. Durante Noviembre de 2019, SNX registra una capitalización de mercado de alrededor de $150 millones. Para un ratio de colateralización (C-RATIO) de 750%, el valor máximo de los sintéticos es de alrededor de $20 millones. Las estadísticas actualizadas están disponibles en <a href="https://dashboard.synthetix.io/" class="link" target="_blank">Dashboard</a>
 
 
 The community is discussing the idea of adding ETH as an alternate collateral type in order to extend the liquidity and accessibility of the system.
