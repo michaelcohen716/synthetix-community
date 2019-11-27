@@ -13,16 +13,16 @@ sidebar_label: Reclamando Ganancias
 - Los SNX reclamados como ganancia son mantenidos en custodia (`escrowed`) por un año. Usted no podrá transferirlos o venderlos durante ese periódo.
 
 
-## Managing Debt
-Your `C-RATIO` can change without any direct action by you. There's a <a href="https://help.synthetix.io/hc/en-us/articles/360023174973-Why-does-my-total-sUSD-debt-fluctuate-over-time-" target="_blank" class="link">detailed explanation here</a> on why global debt fluctuates over time. In simple terms, the global debt - and your pro rata slice of it - will increase if traders on Synthetix Exchange are profitable and decrease if they are unprofitable.
+## Gestionando la Deuda
+Su `C-RATIO` puede cambiar sin la acción directa de usted. Puede encontrar aquí una <a href="https://help.synthetix.io/hc/en-us/articles/360023174973-Why-does-my-total-sUSD-debt-fluctuate-over-time-" target="_blank" class="link">explicación detallada</a> sobre los motivos que pueden provocar la fluctuación de la deuda global en el tiempo. Básicamente, la deuda global - y su parte en términos de proporción - aumentará si los comerciantes que operan en la Plataforma de Intercambio de Synthetix son rentables en general y disminuirá en caso contrario.
 
-As of November 2019, the vast majority of traders on Synthetix are long `sETH` and `sBTC`, synthetic ether and bitcoin. There's a section called `Synths Distribution` on the <a href="https://dashboard.synthetix.io/" class="link" target="_blank">Synthetix Dashboard</a> with up-to-date stats on positioning. 
+Para Noviembre de 2019, la gran mayoría de operadores en Synthetix están "largos" en `sETH` y `sBTC`, synthetic, ether y bitcoin. En una sección llamada `Synths Distribution` que puede consultar a través del <a href="https://dashboard.synthetix.io/" class="link" target="_blank">Synthetix Dashboard</a> usted tendrá acceso a los datos actualizados relativos al posicionamiento de los operadores. 
 
-A common strategy to keep `C-RATIO` fairly stable is to use the sUSD you've minted to mirror the global positioning of traders. Your debt will increase if the portfolio does well, but your synth value will increase in constant terms, protecting your `C-RATIO`.
+Una estrategia común para mantener el `C-RATIO` relativamente estable es usar el sUSD que ha sido "acuñado" por usted para reflejar el posicionamiento global de los operadores. Su deuda será incrementada si el portafolio tiene un buen desempeño, pero su valor sintético aumentará a un ritmo constante, protegiendo su `C-RATIO`.
 
-If a staker mints sUSD and doesn't trade it, they are effectively short the global portfolio, because they're exposed to an increase in global debt without a potential increase in synth holdings. There's nothing wrong with this market positioning, but some beginner stakers don't realize that they're exposed to the global portfolio.
+Si un participante (staker) "imprime" sUSD y no los intercambia, está efectivamente "vendiendo en corto" el portafolio global, porque queda expuesto a un crecimiento en la deuda global sin un incremento potencial del sintético en cartera (synth holdings). No hay nada malo con esta forma de posicionamiento frente al mercado, pero algunos participantes inexpertos no han caído en la cuenta de los riesgos que esto podría implicar.
 
-<a href="https://www.delphidigital.io/research" target="_blank" class="link">Delphi Research</a> has a series of detailed examples on the system's debt mechanics in their report on SNX (behind paywall). See one below:
+<a href="https://www.delphidigital.io/research" target="_blank" class="link">Delphi Research</a> reúne una serie de ejemplos detallados sobre las mecánicas del sistema de deuda en su reporte sobre SNX (Acceso a través de pago). Puede ver uno a continuación:
 
 <img src="assets/debt-example.png" width="50%">
 
