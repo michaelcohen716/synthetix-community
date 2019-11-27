@@ -1,13 +1,13 @@
 ---
-id: transferring-snx
-title: Transferring SNX
-sidebar_label: Transferring SNX
+id: transferir-snx
+title: Transferrir SNX
+sidebar_label: Transferir SNX
 ---
 
-There are some limitations to transferring the SNX tokens in your wallet. You can't transfer:
-- staked tokens: the SNX that collateralize your debt up to 750%
-- escrowed tokens: SNX rewards remain locked under escrow for a year after distribution
+Existen límites para la transferencia de tokens SNX depositados para staking. No se pueden transferir:
+- tokens depositados: los SNX que colateralizan su deuda al 750%
+- tokens en custodi/escfow: las ganancias en SNX permanecen en custodia durante un año desde la distribución
 
-## Burning sUSD
+## Quemando sUSD
 
-To unlock staked tokens, press `Burn` on <a href="https://beta.mintr.synthetix.io/" class="link" target="_blank">Mintr</a>. Press `View transferable SNX`. Here you'll be able to gauge how much SNX you can unlock for burning a given amount of sUSD. Crucially, you'll need to burn enough sUSD to unlock *at least* the number of escrowed rewards tokens you have, before you'll be able to access transferable SNX. 
+Para liberar los tokens depositados en staking, presione `Quemar` en <a href="https://beta.mintr.synthetix.io/" class="link" target="_blank">Mintr</a>. Presione `Ver SNX transferibles`. Aquí usted podrá ver cuantos SNX puede liberar al quemar determinada cantidad de sUSD. Tenga en cuenta que deberá quemar los sUSD necesarios para liberar *como mínimo* la cantidad de tokens depositados antes de tener acceso a a sus SNX transferibles.
