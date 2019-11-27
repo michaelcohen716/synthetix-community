@@ -1,6 +1,6 @@
 ---
 id: transferir-snx
-title: Transferrir SNX
+title: Transferir SNX
 sidebar_label: Transferir SNX
 ---
 
