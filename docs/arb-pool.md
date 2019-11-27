@@ -6,21 +6,19 @@ sidebar_label: Pool de Arbitraje
 
 ## Visión General
 
-Along with the <a href="/docs/seth-pool" class="link">ETH/sETH liquidity pool incentives</a>, the Arbitrage Contract is designed to bolster the ETH/sETH soft peg, ensuring that traders have a clean, cost-effective on-ramp and off-ramp between the collateralized and synthetic worlds. 
+Junto con los <a href="/docs/seth-pool" class="link">incentivos de la pool de liquidez ETH/sETH</a>, el contrato de arbitraje está diseñado para reforzar la paridad ETH/sETH, asegurando a los traders acceso on ramp y off ramp limpio y económico entre el colateral y los sintéticos.
+El contrato es externo a la pool de liquidez de Uniswap, pero enruta y realiza transacciones a través de la misma. Cuando la relación sETH a ETH cae por debajo de 0.99, los usuarios pueden enviar ETH al contrato, el cual convertirá primero ETH a sETH y después sETH a SNX. El modelo de producto constante de Uniswap fuerza a que el precio de sETH se eleve cuando la demanda relativa es alta, por lo que esta transacción múltiple sirve para reforzar la paridad.
 
-The contract is external to the Uniswap liquidity pool, but routes all transactions through it. When the ratio of sETH to ETH falls below 0.99, users can send ETH to the contract which will first convert the ETH to sETH and then convert the sETH to SNX. Uniswap's constant product model forces the price of sETH higher when the relative demand is higher, so this multi-step transaction serves to bolster the peg.
+Puede leer más sobre el contrato de arbitraje aquí: <a href="https://blog.synthetix.io/our-new-seth-snx-arb-contract-is-now-live/" class="link" target="_blank">Our new ETH-SNX arb contract is now live!</a>
 
-Read more about the arbitrage contract here: <a href="https://blog.synthetix.io/our-new-seth-snx-arb-contract-is-now-live/" class="link" target="_blank">Our new ETH-SNX arb contract is now live!</a>
+## Pasos Básicos
 
-## Basic Steps
+- Diríjase a <a href="https://etherscan.io/dapp/0xa6b5e74466edc95d0b6e65c5cbfca0a676d893a4#writeContract" class="link" target="_blank">Etherscan Dapp</a>
 
-- Navigate to the <a href="https://etherscan.io/dapp/0xa6b5e74466edc95d0b6e65c5cbfca0a676d893a4#writeContract" class="link" target="_blank">Etherscan Dapp</a>
+- Conecte su navegador Web3 (vértice superior derecho)
+- Click en "contract address" (vértice superior izquierdo) y asegúrese que el contrato tenga un balance positivo en SNX. Cada semana se depositan nuevos tokens en el contrato, pero a veces las reservas se consumen antes. Regrese a la Dapp
+- Click `arbSynthRate` (#13) e ingrese la cantidad de ETH a enviar
+- Confirme la transacción       
 
-- Connect to your Web3 provider (top right corner)
-- Click on the contract address (top left corner) and ensure that the contract still has an SNX balance. It's refilled every week but sometimes the reserve is spent. Return to the Dapp
-- Click `arbSynthRate` (#13) and enter the ETH amount you want to send
-- Confirm transaction
-
-## Incentive Calculations
-Synthetix allocates 5% of weekly inflation to the arbitrage contract. As of November 2019, 72,000 SNX are distributed weekly, but this figure will decline gradually as the inflation schedule progresses. Once the contract is emptied, it won't be refilled until the new week. 
-
+## Cálculo de Incentivos
+Synthetix asigna 5% de la infalción semanal al contrato de arbitraje. A partir deNOviembre 2019, se distribuyen 72.000 SNX semanales, pero esta cantidad disminuirá gradualmente según la agenda de inflación progresa. Una vez el contrato se vacía, no es recargado con nuevos tokens hasta la siguiente semana.
