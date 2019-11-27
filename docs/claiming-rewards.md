@@ -34,7 +34,7 @@ Cuando un operador ejecuta una transacción en la Plataforma de Intercambio de S
 
 Mientras más sUSD usted haya "acuñado", mayor será la proporción de comisiones que reciba.
 
-Las ganancias globales distribuidas en SNX están determinadas por el calendario de inflación del token. En Noviembre de 2019, el 90% de la inflación semanal es asignada a las recompensas por staking. Si desea consultar con más detalle la política monetaria de Synthetix puede hacerlo <a class="link" target="_blank" href="https://blog.synthetix.io/synthetix-monetary-policy-changes/">aquí</a>. 
+Las ganancias globales distribuidas en SNX están determinadas por el calendario de inflación del token. En Noviembre de 2019, el 90% de la inflación semanal es asignada a las recompensas por participación (staking). Si desea consultar con más detalle la política monetaria de Synthetix puede hacerlo <a class="link" target="_blank" href="https://blog.synthetix.io/synthetix-monetary-policy-changes/">aquí</a>. 
 
 Si usted se encuentra por debajo del `C-RATIO` necesario no será penalizado, solo no tendrá permitido reclamar sus ganancias.
 
