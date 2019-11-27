@@ -1,5 +1,5 @@
 ---
-id: reclamando=ganancias
+id: reclamando-ganancias
 title: Reclamando Ganancias
 sidebar_label: Reclamando Ganancias
 ---
