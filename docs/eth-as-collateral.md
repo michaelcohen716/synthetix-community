@@ -7,6 +7,6 @@ Una limitación del sistema Synthetix radica en que el valor total de todos los 
 
 La comunidad está evaluando la posibilidad de añadir ETH como una forma de colateralización alternativa con el objetivo de ampliar la liquidez y la accesibilidad del sistema.
 
-En relación a este asunto se produjo una <a href="https://github.com/Synthetixio/synthetix/issues/232" target="_blank" class="link">prolongada discusión</a> en la página de problemas del repositorio de Synthetix en GitHub, donde fueron analizados cuidadosamente los pros y los contras de implementar una medida de este tipo.
+En relación a este asunto se está llevando a cabo una <a href="https://github.com/Synthetixio/synthetix/issues/232" target="_blank" class="link">prolongada discusión</a> en la página de problemas del repositorio de Synthetix en GitHub, donde son analizados cuidadosamente los pros y los contras de implementar una medida de este tipo.
 
-Uno de los puntos que sin duda es importante destacar, es el hecho de que los usuarios que decidan bloquear ETH como colateral no serán elegibles para las ganacias que derivan de dicha actividad. Las comisiones serán destinadas a los fondos de recompensa por staking de SNX.
+Uno de los puntos que sin duda es importante destacar, es el hecho de que los participantes que decidan bloquear ETH como colateral no serán elegibles para las ganacias que derivan de dicha actividad. Las comisiones serán destinadas a los fondos de recompensa por staking de SNX.
