@@ -1,7 +1,7 @@
 ---
-id: chainlink-oracles
-title: Chainlink Oracles
-sidebar_label: Chainlink Oracles
+id: oraculos-chainlink
+title: Oráculos Chainlink
+sidebar_label: Oráculos Chainlink
 ---
 
 One potential risk of the Synthetix system is that the oracle price feeds operation - the source of truth for the smart contracts - is still centralized with the Synthetix Core team. While this generally hasn't been an issue, it still represents a centralized point of failure for a protocol that aims to be decentralized.
