@@ -1,11 +1,11 @@
 ---
 id: intro-visión general
-title: c
+title: Vidión Genneral
 sidebar_label: Visión General
 ---
 
 Synthetix es un nuevo tipo de exchange descentralizado. Hay tres diferencias clave en relación con la mayoría de los otros DEXs:
-- Traders operan contra colateral combinado de la comunidad y no contra una contrparte específica
+- Traders operan contra colateral combinado de la comunidad y no contra una contraparte específica
 - Traders compran y venden activos *sintéticos*, *synthetic* assets, ofrecidos al mercado por oráculos offline
 - Traders tienen acceso nativo a derivados y canastas de inversión
 
