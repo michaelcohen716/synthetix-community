@@ -1,10 +1,10 @@
 ---
 id: arb-pool
-title: Arbitrage Pool
-sidebar_label: Arbitrage Pool
+title: Poolde Arbitraje
+sidebar_label: Pool de Arbitraje
 ---
 
-## Overview
+## Visión General
 
 Along with the <a href="/docs/seth-pool" class="link">ETH/sETH liquidity pool incentives</a>, the Arbitrage Contract is designed to bolster the ETH/sETH soft peg, ensuring that traders have a clean, cost-effective on-ramp and off-ramp between the collateralized and synthetic worlds. 
 
