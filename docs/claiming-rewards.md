@@ -1,7 +1,7 @@
 ---
-id: claiming-rewards
-title: Claiming Rewards
-sidebar_label: Claiming Rewards
+id: reclamando=ganancias
+title: Reclamando Ganancias
+sidebar_label: Reclamando Ganancias
 ---
 
 ## Basic Steps
