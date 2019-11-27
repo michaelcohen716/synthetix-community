@@ -1,7 +1,7 @@
 ---
-id: trading
-title: Trading Sintéticos
-sidebar_label: Trading Sintéticos
+id: trading-como
+title: Como Tradear Trading Sintéticos
+sidebar_label: Como Tradear Sintéticos
 ---
 
 ## Accessing the Ecosystem
