@@ -9,4 +9,4 @@ La comunidad está evaluando la posibilidad de añadir ETH como una forma de col
 
 En relación a este asunto se está llevando a cabo una <a href="https://github.com/Synthetixio/synthetix/issues/232" target="_blank" class="link">prolongada discusión</a> en la página de problemas del repositorio de Synthetix en GitHub, donde son analizados cuidadosamente los pros y los contras de implementar una medida de este tipo.
 
-Uno de los puntos que sin duda es importante destacar, es el hecho de que los participantes (stakers) que decidan bloquear ETH como colateral no serán elegibles para las ganacias que derivan de dicha actividad. Las comisiones serán destinadas a los fondos de recompensa por staking de SNX.
+Uno de los puntos que sin duda es importante destacar, es el hecho de que los participantes (stakers) que decidan bloquear ETH como colateral no serán elegibles para las ganacias que derivan de dicha actividad. Las comisiones serán destinadas a los fondos de recompensa por participación (staking) de SNX.
