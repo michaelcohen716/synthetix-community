@@ -1,7 +1,7 @@
 ---
-id: is-snx-liquid
-title: Is SNX Liquid?
-sidebar_label: Is SNX Liquid?
+id: liquidez-snx
+title: Liquidez de SNX
+sidebar_label: Liquidez de SNX
 ---
 
-Most of the supply of SNX is staked to the network, so the free-floating liquidity is less than most tokens with similar supply. However, data providers like CoinMarketCap don't account for the majority of SNX volume, which occurs on decentralized exchanges and on an active OTC market.
+La mayour parte del suinistro de SNX se encuentra epositado en staking en la red, por lo que la liquidez de libre flotación es menor a la de la mayoría de otros tokens con un suministro similar. No obstante, proveedores de estadísticas como Coinmarketcap don't no toman en cuenta la mayoría del volumen de SNX, la cual ocurre en exchanges descentralizados y en mercados OTC muy activos.
