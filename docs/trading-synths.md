@@ -1,7 +1,7 @@
 ---
-id: trading-synths
-title: Trading Overview
-sidebar_label: Overview
+id: trading-sinteticos
+title: Trading Vista General
+sidebar_label: Vista General
 ---
 
 The ability to trade synthetic assets is the core value proposition of Synthetix. In contrast to trading "real" assets, trading on Synthetix provides two key differentiating features. 
