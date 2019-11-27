@@ -3,7 +3,7 @@ id: eth-como-colateral
 title: Ether como Colateral
 sidebar_label: Ether como Colateral
 ---
-Una limitación del sistema Synthetix radica en que el valor total de todos los sintéticos está restringido por el propio token SNX. Durante Noviembre de 2019, SNX registra una capitalización de mercado de alrededor de $150 millones. Para un ratio de colateralización (C-Ratio) de 750%, el valor máximo de los sintéticos es de alrededor de $20 millones. Estas y otras estadísticas actualizadas están disponibles y pueden ser consultadas en tiempo real en el <a href="https://dashboard.synthetix.io/" class="link" target="_blank">Dashboard</a>.
+Una limitación del sistema Synthetix radica en que el valor total de todos los sintéticos está restringido por el propio token SNX. Durante Noviembre de 2019, SNX registra una capitalización de mercado de alrededor de $150 millones. Para un ratio de colateralización (`C-RATIO`) de 750%, el valor máximo de los sintéticos es de alrededor de $20 millones. Estas y otras estadísticas actualizadas están disponibles y pueden ser consultadas en tiempo real en el <a href="https://dashboard.synthetix.io/" class="link" target="_blank">Dashboard</a>.
 
 La comunidad está evaluando la posibilidad de añadir ETH como una forma de colateralización alternativa con el objetivo de ampliar la liquidez y la accesibilidad del sistema.
 
