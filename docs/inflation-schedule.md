@@ -1,7 +1,7 @@
 ---
-id: inflation-schedule
-title: Inflation Schedule
-sidebar_label: Inflation Schedule
+id: agenda-de-inflacion
+title: Agenda de Inflación
+sidebar_label: Agenda de Inflación
 ---
 
 To bootstrap the network early on, the Synthetix team implemented a high incentive inflation model, designed to attract capital and promote staking. More on Synthetix's monetary policy and the decision-making process <a class="link" target="_blank" href="https://blog.synthetix.io/synthetix-monetary-policy-changes/">here</a>. 
