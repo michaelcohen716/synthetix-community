@@ -10,13 +10,13 @@ Hay tres formas sencillas de adquirir los activos que necesita para operar en la
 - Use Uniswap para intercambiar ETH por sETH
 - Utilice el servicio ubicado en el panel izquierdo de la Plataforma para intercambiar ETH por sUSD
 
-## Executing a Trade
-The interface will populate with your balances in each synthetic asset. As of November 2019, there are ~25 supported assets, with many more planned. Some are protocol level long assets like sETH and sBTC, paired with an inverse short asset. Some are Ethereum tokens - again, paired with an inverse short version - and some are global fiat currencies. The team has also introduced synthetic baskets of assets, with short/long pairs of a centralized exchange token basket available and a decentralized finance basket available soon.
+## Ejecutando una Operación (Trade)
+La interfaz será actualizada mostrando su balance para cada activo sintético. De momento, hasta Noviembre de 2019 hay ~25 activos soportados, pero hay planes de incluir una cantidad significativamente mayor. Algunos son activos "de posición larga" por protocolo, como sETH y sBTC, aparejados con uno "de posición corta" o "inverso". Algunos son tokens de Ethereum - de nuevo, aparejados con una versión "de posición corta" o "inversa" - y algunos son divisas fiduciarias globales. El equipo ha introducido también cestas de activos sintéticos, con pares "cortos"/"largos" de una cesta de tokens de Casas de Cambio (Exchanges) centralizadas y una cesta de finanzas descentralizadas que pronto estará también disponible.
 
-Traders can execute a transaction by selecting an input asset, an output asset and an amount. The trading fee is 0.3% of the transaction value.
+Los operadores pueden ejecutar una transacción seleccionando un activo de entrada, un activo de salida y una cantidad determinada. Las comisiones por operación son el 0.3% del valor de la transacción.
 
-> The fee has been 0.5% at times recently, to reduce the profitability of front-running bots
+> Recientemente las comisiones han sido ajustadas a 0.5% en algunas ocasiones, con el objetivo de reducir la rentabilidad de los bots de ejecución anticipada (front-running)
 
-For trades exchanging a long asset for an inverse asset (e.g. sETH for iBTC), the fee is doubled. Crucially, there is no slippage. The spot price for 1 sETH is the same as for 100 sETH. 
+Para las operaciones en las que se intercambian un activo "de posición larga" por un activo "inverso" (por ejemplo, sETH por iBTC), la comisión es duplicada. Un punto de especial importancia, es el hecho de que no hay deslizamientos de precio (slippage). Al momento de la ejecución, el precio al contado (spot price) por cada sETH será el mismo, tanto si está comerciando solo 1 sETH, como si está comerciando 100 sETH. 
 
-The Exchange interface allows the trader to choose from a range of transaction speeds. Beyond speed of transaction confirmation, selecting a slower or faster gas value won't affect the trade itself. However, if the network is highly congested, the trade may fail if the token is no longer available at the same price. 
+La interfaz de usuario de la Plataforma permite al operador escoger entre una variedad de velocidades de transacción. Más allá de la confirmación de la velocidad de transacción, seleccionar un valor de gas más lento o más rápido no afectará a la operación en sí. Sin embargo, si la red está altamente congestionada, la operación podría fallar si el token ya no se encuentra disponible al mismo precio.
