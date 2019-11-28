@@ -1,14 +1,14 @@
 ---
 id: trading-como
-title: Como Tradear Trading Sintéticos
-sidebar_label: Como Tradear Sintéticos
+title: Cómo Hacer Trading Usando Sintéticos
+sidebar_label: Cómo Hacer Trading Usando Sintéticos
 ---
 
-## Accessing the Ecosystem
-There are three easy ways to acquire the assets needed to trade on <a href="https://synthetix.exchange/" target="_blank" class="link">Synthetix Exchange</a>:
-- <a href="/docs/staking-snx-overview" class="link">Stake SNX</a> and mint sUSD to trade
-- Use Uniswap to exchange ETH for sETH to trade on Exchange
-- Use the utility on the left panel of the Exchange interface to exchange ETH for sUSD
+## Accediendo al Ecosistema
+Hay tres formas sencillas de adquirir los activos que necesita para operar en la <a href="https://synthetix.exchange/" target="_blank" class="link">Plataforma de Intercambio de Synthetix</a> o <a href="https://synthetix.exchange/" target="_blank" class="link">Synthetix Exchange</a>:
+- <a href="/docs/staking-snx-overview" class="link">Bloquee (Stake) SNX</a> y acuñe sUSD
+- Use Uniswap para intercambiar ETH por sETH
+- Utilice el servicio ubicado en el panel izquierdo de la Plataforma para intercambiar ETH por sUSD
 
 ## Executing a Trade
 The interface will populate with your balances in each synthetic asset. As of November 2019, there are ~25 supported assets, with many more planned. Some are protocol level long assets like sETH and sBTC, paired with an inverse short asset. Some are Ethereum tokens - again, paired with an inverse short version - and some are global fiat currencies. The team has also introduced synthetic baskets of assets, with short/long pairs of a centralized exchange token basket available and a decentralized finance basket available soon.
