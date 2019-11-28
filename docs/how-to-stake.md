@@ -18,6 +18,6 @@ sidebar_label: Staking-Cómo Participar
 
 Stakers pueden acuñar sUSD solamente a una colateralización mínima de 750%. El acuñado del monto máximo para un staker que tiene SNX por valor de $750, resultará la emisión de sUSD por valor de $100. Con el fin de mantener la red lo más segura posible, la comunidad ha establecido una relación de colateralización, `C-RATIO`, bastante conservadora. Aunque la colateralización mínima puede cambiar en el futuro.
 
-La matemática detras del el proceso de staking es la siguiente: si el valor del token SNX aumenta, usted podrá acuñar más sUSD. Y si el valor del token SNX disminuye, su valor acuñado y <a href="/docs/claiming-rewards#managing-debt" class="link">contribución a la deuda global</a> se mantiene igual. Cabe notar que una disminución en el valor de SNX puede complicar su capacidad de <a href="/docs/claiming-rewards" class="link">reclamar sus ganancias</a>.
+La matemática detras del proceso de staking es la siguiente: si el valor del token SNX aumenta, usted podrá acuñar más sUSD. Y si el valor del token SNX disminuye, su valor acuñado y <a href="/docs/claiming-rewards#managing-debt" class="link">contribución a la deuda global</a> se mantiene igual. Cabe notar que una disminución en el valor de SNX puede complicar su capacidad de <a href="/docs/claiming-rewards" class="link">reclamar sus ganancias</a>.
 
 Usted puede añadir SNX a su billetera y depositar en staking en cualquier momento, siempre y cuando su colateralización sea mayor a 750%.
