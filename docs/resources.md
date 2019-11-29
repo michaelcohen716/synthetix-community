@@ -8,13 +8,13 @@ sidebar_label: Recursos
 
 ## Del Equipo
 
-- **<a class="link" target="_blank" href="https://www.synthetix.io/uploads/synthetix_litepaper.pdf">Synthetix Litepaper</a>**: Sumario de 8 páginas de las características del protocolo (Actualizado Noviembre, 2019).
+- **<a class="link" target="_blank" href="https://www.synthetix.io/uploads/synthetix_litepaper.pdf">Synthetix Litepaper</a>**: Sumario de 8 Páginas de las Características del Protocolo (Actualizado Noviembre, 2019).
 
-- **<a class="link" target="_blank" href="https://blog.synthetix.io/">Synthetix Blog</a>**: Actualizaciones del equipo.
+- **<a class="link" target="_blank" href="https://blog.synthetix.io/">Synthetix Blog</a>**: Actualizaciones del Equipo.
 
-- **<a class="link" target="_blank" href="https://help.synthetix.io/">Página de Ayuda de Synthetix</a>**: Preguntas Realizadas con Mayor Frecuencia (FAQs) con explicaciones detalladas.
+- **<a class="link" target="_blank" href="https://help.synthetix.io/">Página de Ayuda de Synthetix</a>**: Preguntas Realizadas con Mayor Frecuencia (FAQs) con Explicaciones Detalladas.
 
-- **<a class="link" target="_blank" href="https://www.synthetix.io/tokens">Tokens Disponibles (Synths)</a>**: Lista de tokens sintéticos con descripciones, símbolos, direcciones de contratos, etc.
+- **<a class="link" target="_blank" href="https://www.synthetix.io/tokens">Tokens Disponibles (Synths)</a>**: Lista de Tokens Sintéticos con Descripciones, Símbolos, Direcciones de Contratos, etc.
 
 - **<a class="link" target="_blank" href="https://developer.synthetix.io/api/docs/home.html">Portal de Desarrolladores</a>** 
 
@@ -25,11 +25,11 @@ sidebar_label: Recursos
 
 - **<a class="link" target="_blank" href="https://discordapp.com/channels/413890591840272394/413890591840272398">Canal de Discord</a>**: Sala de Chat Activa de la Comunidad.
 
-- **<a class="link" target="_blank" href="https://defitutorials.substack.com/p/the-ultimate-guide-to-synthetix">La Guía Definitiva de Synthetix</a>**: Introducción y guía exhaustiva al ecosistema Synthetix.
+- **<a class="link" target="_blank" href="https://defitutorials.substack.com/p/the-ultimate-guide-to-synthetix">La Guía Definitiva de Synthetix</a>**: Introducción y Guía Exhaustiva del Ecosistema Synthetix.
 
-- **<a class="link" target="_blank" href="https://www.publish0x.com/twicecrypto/synthetix-dummies-xdnxle">Synthetix para Principiantes</a>**: Introducción y guía sencilla de Synthetix.
+- **<a class="link" target="_blank" href="https://www.publish0x.com/twicecrypto/synthetix-dummies-xdnxle">Synthetix para Principiantes</a>**: Introducción y Guía Sencilla del Ecosistema Synthetix.
 
-- **<a class="link" target="_blank" href="http://synthetixstats.com/">SynthetixStats</a>**: Datos y estadísticas de comisiones, volumen y actividad de los sintéticos.
+- **<a class="link" target="_blank" href="http://synthetixstats.com/">SynthetixStats</a>**: Datos y Estadísticas de Comisiones, Volumen y Actividad de los Sintéticos.
 
 
 ## Reportes de Inversión y Análisis
@@ -42,4 +42,4 @@ sidebar_label: Recursos
 
 ## Prensa
 
-- **<a class="link" target="_blank" href="https://fiftyonepercent.podbean.com/e/synthetixs-kain-warwick-how-ethereum-will-absorb-a-trillion-dollar-market/">Podcast de Delphi Digital</a>**: Entrevista al Fundador de Synthetix, Kain.
+- **<a class="link" target="_blank" href="https://fiftyonepercent.podbean.com/e/synthetixs-kain-warwick-how-ethereum-will-absorb-a-trillion-dollar-market/">Podcast de Delphi Digital</a>**: Entrevista al Fundador de Synthetix, Kain Warwick.
