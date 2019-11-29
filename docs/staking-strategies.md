@@ -8,7 +8,7 @@ sidebar_label: Estrategias de Staking
 Un *staker* conservador no *acuña* la cantidad máxima de sUSD, en su lugar se enfoca en alcanzar un ratio de colateralización (`C-RATIO`) de 850%-900%. Si el valor de SNX se incrementa y su ratio se mueve significativamente por encima de 900% , el *staker* conservador podría considerar la *emisión* de más sUSD para regresar a su rango objetivo. Este *staker* usará los sUSD *acuñados* para emular el Portafolio Global Sintético: <a href="https://dashboard.synthetix.io/" class="link" target="_blank">Synthetix Dashboard</a>.
 
 ## Neutral
-Un *staker* neutral persigue un ratio inicial de 775%-825%. Si el valor de SNX se incrementa y su ratio se mueve por encima de 900% , el *staker* conservador podría considerar la *emisión* de más sUSD para regresar a su rango objetivo. Este *staker* podría intercambiar sUSD por ETH, prestar sUSD, o hacer *trading* por otros sintéticos, pero lo más probable es que intente alinearse con el Portafolio Global Sintético.
+Un *staker* neutral persigue un ratio inicial de 775%-825%. Si el valor de SNX se incrementa y su ratio se mueve por encima de 825% , el *staker* conservador podría considerar la *emisión* de más sUSD para regresar a su rango objetivo. Este *staker* podría intercambiar sUSD por ETH, prestar sUSD, o hacer *trading* por otros sintéticos, pero lo más probable es que intente alinearse con el Portafolio Global Sintético.
 
 
 ## Agresiva
