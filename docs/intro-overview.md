@@ -1,5 +1,5 @@
 ---
-id: intro-visión general
+id: intro-vision-general
 title: Visión General
 sidebar_label: Visión General
 ---
