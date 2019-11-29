@@ -8,7 +8,7 @@ sidebar_label: Recursos
 
 ## Del Equipo
 
-- **<a class="link" target="_blank" href="https://www.synthetix.io/uploads/synthetix_litepaper.pdf">Synthetix Litepaper</a>**: Sumario de 8 páginas de las características del protocolo (Actualizado Nov. 2019)
+- **<a class="link" target="_blank" href="https://www.synthetix.io/uploads/synthetix_litepaper.pdf">Synthetix Litepaper</a>**: Sumario de 8 páginas de las características del protocolo (Actualizado Noviembre, 2019).
 
 - **<a class="link" target="_blank" href="https://blog.synthetix.io/">Synthetix Blog</a>**: Actualizaciones del equipo.
 
