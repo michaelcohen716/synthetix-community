@@ -1,12 +1,12 @@
 ---
 id: intro-visión general
-title: Vidión Genneral
+title: Visión General
 sidebar_label: Visión General
 ---
 
 Synthetix es un nuevo tipo de exchange descentralizado. Hay tres diferencias clave en relación con la mayoría de los otros DEXs:
 - Traders operan contra colateral combinado de la comunidad y no contra una contraparte específica
-- Traders compran y venden activos *sintéticos*, *synthetic* assets, ofrecidos al mercado por oráculos offline
+- Traders compran y venden activos *sintéticos* (*synthetic* assets) ofrecidos al mercado por oráculos offline
 - Traders tienen acceso nativo a derivados y canastas de inversión
 
 El token SNX actúa como la base y columna vertebral para este modelo. Antes que los traders puedan participar, inversores en SNX depositan sus tokens en "prueba de participación/staking" para emitir liquidez para la red. Cuando un trader ejecuta una transacción, paga una tarifa de negociación para operar contra los stakers. Las ganancias de un trader se suma al conjunto de la deuda global y las pérdidas se sustraen.
