@@ -15,5 +15,5 @@ Por participar y colateralizar la red con sus SNX, los Stakers ganan recompensas
 ## Riesgos de Staking
 Las ganancias por participar en staking no son en absoluto libres de riesgo. El staker provee colateralización contra la que los traders pueden operar. Si los traders obtienen ganancias despues de los costos de operación, los stakers sufrirán pérdidas a largo plazo. En los comienzos, los incentivos para stakers del protocolo mitigan este riesgo, pero eso puede cambiar en cuaquier momento.
 
-## Quien Puede Participar en Staking?
+## Quién Puede Participar en Staking?
 Cualquier tenedor de SNX. Aunque si un staker tiene menos de ~250 SNX, es posible también que los costos por transacciones superen los beneficios obtenidos.
