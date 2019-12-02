@@ -4,8 +4,8 @@ title: Trading Vista General
 sidebar_label: Vista General
 ---
 
-The ability to trade synthetic assets is the core value proposition of Synthetix. In contrast to trading "real" assets, trading on Synthetix provides two key differentiating features. 
+La capacidad de intercambiar (trade) activos *sintéticos* es la principal propuesta de valor de Synthetix. En contraste al *trading* de activos "reales", operar en Synthetix proporciona dos características claves de diferenciación:
 
-First, synthetic assets don't require a counterparty. Traders are trading against the global debt pool. When a trader exchanges sUSD for sBTC, that sBTC is essentially generated out of thin air. No one sold it.
+- Primero, los activos *sintéticos* no requieren contrapartida, los *traders* están operando contra el fondo de deuda global. Cuando un operador intercambia sUSD por sBTC, ese sBTC es esencialmente generado "de la nada", nadie lo ha vendido.
 
-Second, Synthetix Exchange offers something called `infinite liquidity`, which essentially means that higher volume trades won't lead to price slippage, as is common on typical exchanges. However, as Synthetix scales, the "infinite" element is a bit of a misnomer, because trade size is capped by total sUSD in existence which is capped in turn by the market cap of SNX. 
+- Segundo, la Plataforma de Intercambio de Synthetix ofrece algo llamado "Liquidez Infinita" (`Infinite Liquidity`), lo que significa básicamente que las operaciones en las que se mueva un volumen significativamente alto no causarán deslizamientos en el precio (slippage), como ocurre normalmente en las típicas casas de cambio (exchanges). Sin embargo, a medida que Synthetix escale, el elemento "infinito" se torna un tanto inapropiado, ya que el tamaño de cualquier operación está limitado por el total de sUSD en existencia, que a su vez está limitado por la Capitalización de Mercado de SNX.
