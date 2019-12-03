@@ -4,4 +4,4 @@ title: Transacciones
 sidebar_label: Transacciones
 ---
 
-If gas prices on the network are high, transactions may seem like they're stuck. Try clicking on the pending transaction on MetaMask and pressing `Speed Up`.
+Si el precio del gas en la red es alto, podría parecer que las transacciones están atascadas. Puede intentar acelerarlas haciendo click sobre la transacción pendiente en MetaMask y presionando luego `Speed Up`.
