@@ -41,3 +41,14 @@ sidebar_label: Resources
 ## Press
 
 - **<a class="link" target="_blank" href="https://fiftyonepercent.podbean.com/e/synthetixs-kain-warwick-how-ethereum-will-absorb-a-trillion-dollar-market/">Delphi Digital Podcast</a>**: Interview with Synthetix founder, Kain
+
+- **<a class="link" target="_blank" href="https://www.youtube.com/watch?v=2DhqtMkuyRQ">POV Crypto Interview</a>**: Interview with Synthetix founder, Kain, about a range of topics, including choosing collateral types
+
+## Newsletters
+
+- **<a class="link" target="_blank" href="https://www.synthetix.io/community">Synthetix newsletter</a>**: Subscribe to the mailing list here for a monthly newsletter from the Synthetix team summarising the biggest news of the past month
+
+- **<a class="link" target="_blank" href="https://mailchi.mp/blocklytics/synthetix-report-1">Blocklytics Report</a>**: A weekly summary of news and stats timed to also provide a reminder to claim rewards before the end of the fee period
+
+- **<a class="link" target="_blank" href="https://synthetixinsights.substack.com/">Synthetix Insights</a>**: A fortnightly community-run newsletter from experienced members of the Synthetix community using data-driven methods to provide insights 
+into the project
