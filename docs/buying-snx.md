@@ -14,5 +14,7 @@ The easiest place to buy SNX is on <a target="_blank" class="link" href="https:/
 
 <a href="https://www.kucoin.com/" target="_blank" class="link">Kucoin</a> is a more conventional centralized exchange option.
 
+While the token is listed on Kucoin, there's very little motivation in the community to pay for another centralized exchange listing. For one, SNX is a staking token much more than a trading token. Investors hold it for the yield as much as the appreciation in price. Also, decentralized exchanges and OTC brokers have done a serviceable job meeting liquidity needs. With these reasons in mind, there are better ways to spend SNX reserves than paying for centralized listings. 
+
 ## OTC
 For a cryptocurrency with SNX's market cap and community participation, the token is fairly illiquid, the reason being that most SNX are staked and thus locked. If you're looking to transact in size (i.e., at least 50,000 SNX), there is an OTC channel in the <a href="https://discordapp.com/channels/413890591840272394/615786216150925323" target="_blank" class="link">community Discord</a>. Post there to be matched with a counterparty. 
