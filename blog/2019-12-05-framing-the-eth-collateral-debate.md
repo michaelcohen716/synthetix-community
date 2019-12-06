@@ -1,15 +1,15 @@
 ---
-title: Framing the ETH as Collateral Debate
+title: Framing the ETH Collateral Debate
 ---
 Author: <a class="link" href="https://twitter.com/mjayceee" target="_blank">@mjayceee</a>
 
 ## Background
 <p>
-Since the launch of Synthetix Exchange, the SNX token has been the system's sole source of collateral. Investors stake their SNX to mint liquidity for the network &#8722; in the form of sUSD &#8722; and traders exchange that sUSD for synthetic assets. The combination of sUSD and synthetics outstanding represent the value of assets in the system.
+Since the launch of Synthetix Exchange, the SNX token has been the system's sole source of collateral. Investors stake their SNX to mint liquidity &#8722; in the form of sUSD &#8722; for the network, and traders exchange that sUSD for synthetic assets. The combination of sUSD and synthetics outstanding represent the value of all assets in the system.
 </p>
 On the one hand, building Synthetix around a single core asset makes for simpler mechanics and a cleaner investment narrative. And because there’s a direct correlation between SNX market cap and synths outstanding, an SNX collateral model strengthens the relationship between the price of the token and the success of the project. 
 
-On the other hand, supporting only SNX as collateral is highly limiting. SNX is less liquid and more easily destabilized than ETH, so the community has landed on a 750% minimum collateralization ratio. This is significantly higher than the 150% standard for ETH-collateralized DeFi protocols. Although the C-Ratio could change in the future, this disparity is a major challenge for two reasons. 
+On the other hand, supporting only SNX as collateral is highly limiting. SNX is less liquid and more easily destabilized than ETH, so the community has landed on a 750% minimum collateralization ratio. This is substantially higher than the 150% standard for ETH-collateralized DeFi protocols. Although the C-Ratio could change in the future, this disparity is a major challenge for two reasons. 
 
 <!--truncate-->
 
@@ -21,11 +21,11 @@ With these reasons in mind, there’s clear momentum in the community to impleme
 
 ## The Situation
 
-My first reaction when I heard about the ETH collateral proposal was a visceral rejection. Adding ETH as an alternative collateral asset would introduce unknown complications into the system, while diluting the value of my SNX investment. <a href="https://twitter.com/binance/status/1114027659015544832?s=20" target="_blank" class="link">*But muh bags!*</a>
+My first reaction when I heard about the ETH collateral proposal was a visceral rejection. Adding ETH as an alternative collateral asset would introduce unknown complications into the system, while diluting the value of my SNX investment. <a href="https://twitter.com/binance/status/1114027659015544832?s=20" target="_blank" class="link">*But muh bags.*</a>
 
 The deeper I delve into the mechanics, however, the more my opinion has turned. Not only do I now support ETH as collateral, I believe it may be essential to the success of the project. 
 
-While the team is rolling out a slew of protocol enhancements over the next six months that will draw in new users and elevate the platform’s competitiveness, there *is* some useful and informative data we can glean from the early days. The first and simplest data point is the distribution of staking rewards over the last couple months as the project has entered the crypto mainstream. Rewards are still weighted heavily towards SNX, a yield stream that will taper off significantly over the next few years. 
+While the team is rolling out a slew of protocol enhancements over the next six months that will draw in new users and elevate the platform’s competitiveness, there *is* some useful and informative data we can glean from the early days. The first and simplest data point is the distribution of staking rewards over the last few months as the project has entered the crypto mainstream. Rewards are still weighted heavily towards SNX, a yield stream that will taper off significantly over the next few years. 
 
 sUSD rewards &#8722; the other source of staking yield &#8722; have been volatile since September, the spikes owing partly to front-running bots that the team has been working to engineer off the platform. We’ll discuss why staking rewards are pertinent to the ETH Collateral debate later on.
 
@@ -37,9 +37,9 @@ While no one would suggest that sUSD trading rewards over the last few weeks (ve
 
 ## Understanding Trading Yield
 
-This blog post is not about valuing the SNX token. That said, some SNX valuation models use a conventional DCF analysis &#8722; based on growth assumptions in exchange volume and fees &#8722; to determine a fair value. There’s nothing technically wrong about this approach, but I think it misses a key point. 
+This blog post is not about valuing the SNX token. That said, some SNX valuation models use a conventional DCF analysis &#8722; based on growth assumptions in exchange volume and fees &#8722; to determine a fair value...there’s nothing technically wrong about this approach, but I think it misses a key point. 
 
-Take the simplified example below. At a $1.50 token price, the network liquidity is capped at $22.5 million. Over the course of the year, investors rack up 6% of capital in fees (20 trades at 0.3% per trade). SNX stakers earn a total 0.8% pre-debt trading yield on their holdings. 
+Take the simplified example below. At a $1.50 token price, the network liquidity is capped at $22.5 million. Over the course of the year, investors rack up 6% of capital in fees. In this environment, SNX stakers earn a total 0.8% pre-debt trading yield on their holdings. 
 
 At the beginning of year 2, demand for liquidity on the network grows by 2%. The price of sUSD briefly increases to $1.02, before investors bid up the value of SNX by 2% in order to print more liquidity. At the end of year 2, the token has appreciated by 2%, but the trading yield has stayed exactly the same. 
 
@@ -57,19 +57,19 @@ So how do we estimate velocity? Synthetix Exchange has been around for almost ex
 
 To estimate the run-rate velocity, I've increased my estimate for historical velocity by 25% to account for the fact that the network’s liquidity has been underutilized in year 1. This is most evident in the fact that the sUSD peg has struggled to maintain parity with other USD stablecoins. (The values in green are real and the values in blue are my assumptions.)
 
-> In fact, the best metric we have for knowing whether the network is at capacity is the status of the peg. If it’s below $1, the network is underutilized. If it’s above $1, the market will bid up the price of SNX and stakers will mint more liquidity, pressuring the spot back down to $1. 
-
 <img class="blog-img" src="/docs/assets/eth-collateral/run-rate-velocity.png">
+
+> The best metric we have for knowing whether the network is at capacity is the status of the peg. If it’s below $1, the network is underutilized. If it’s above $1, the market will bid up the price of SNX and stakers will mint more liquidity, pressuring the spot back down to $1. 
 
 With the trading velocity in hand, we can estimate what the current run-rate yield is for SNX. **This is the annual return that stakers will expect in exchange for taking the other side of *every* trade.**
 
-Under our assumptions for C-Ratio, velocity and fees, the run-rate yield is only about 1.3% annualized. Because 32.6x is a very rough estimate, I’ve included a range to gauge the effect of higher or lower velocity, 
+Under our assumptions for C-Ratio, velocity and fees, the run-rate yield is only about 1.3% annualized. Because 32.6x is a very rough estimate, I’ve included a range to gauge the effect of higher or lower velocity. But in any case, these yields are not sufficient to take on global trading risk.
 
 <img class="blog-img" src="/docs/assets/eth-collateral/current-trading-yield.png">
 
 Fortunately, we would expect this estimate to grow as Synthetix moves beyond vanilla synths trading and introduces more profitable products in the futures and derivatives space. Additionally, it’s possible that once the front-running kinks are worked out, the average trader will be net unprofitable, especially if Synthetix finds product-market-fit as a hedging utility. Lastly, dynamic fee models should make certain products (like forex trading and swaps) more competitive. 
 
-However, 1.3% or something in that ballpark won't be sufficient to support a healthy cash flow generating asset. At some point, trading yield &#8722; not growth &#8722; will start to drive token price. Even if we’ve under-estimated trading velocity by a factor of 2 or 3, it may not be enough to compensate holders for taking on the risk of global debt. And as we established earlier, growth in liquidity is not correlated with growth in yield.
+However, something in the ballpark of 1.3% won't be sufficient to support a healthy cash flow generating asset. At some point, trading yield &#8722; not growth &#8722; will start to drive token price. Even if we’ve under-estimated trading velocity by a factor of 2 or 3, it may not be enough to compensate holders for taking on the risk of global debt. And as we established earlier, growth in liquidity is not correlated with growth in yield.
 
 So how do we support a healthy trading yield? 
 
@@ -77,11 +77,11 @@ So how do we support a healthy trading yield?
 
 Let’s do some math on what adding Ether as a collateral option could mean for fees. Recall, only SNX stakers collect fees. sETH minters do not. 
 
-If we assume that Ether collateral will be capped at 50% of SNX collateral and that the average C-Ratio is 150%, traders will be able to mint an incremental ~$56 million in sETH. That's significantly more fee-generating liquidity paying the same amount of SNX holders.
-
-> The ETH collateral cap will be much lower than 50% early on, but we would expect it to rise as confidence in the system grows. 
+If we assume that Ether collateral will be capped at 50% of SNX collateral and that the average C-Ratio is 150%, traders will be able to mint an incremental ~$56 million in sETH. That's significantly more fee-generating liquidity paying the same number of SNX holders.
 
 <img class="blog-img" src="/docs/assets/eth-collateral/minted-seth.png">
+
+> The ETH collateral cap will be much lower than 50% early on, but we would expect it to rise as confidence in the system grows. 
 
 With $56 million in new Ether-collateralized liquidity, there are three potential sources of revenue. 
 
@@ -103,5 +103,7 @@ Of course, the effects of global debt are still unknown, and they would likely v
 
 ## To the Moon
 
-Ether collateral brings new risks with it - a subject for another blog post - but without it, Synthetix will have a difficult time achieving its massive potential. Adding Ether injects much-needed leverage without diluting the value of the SNX token. Instead of thinking about SNX as the collateral asset for the network, it may be more appropriate to think of it as the base collateral asset - the foundation and backstop for the network. While a change of this significance will come with its fair share of challenges, the path to becoming Decentralized Bitmex runs through Ether.
+Ether collateral brings new risks with it &#8722; a subject for another blog post &#8722; but without it, Synthetix will have a difficult time achieving its massive potential. Adding Ether injects much-needed leverage without diluting the value of the SNX token. 
+
+Instead of thinking about SNX as the collateral asset for the network, it may be more appropriate to think of it as the base collateral asset &#8722; the foundation and backstop for the network. And while a change of this significance will come with its fair share of challenges, the path to becoming Decentralized Bitmex runs through Ether.
 
