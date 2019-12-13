@@ -19,5 +19,26 @@
       "memes"
     ],
     "Troubleshooting": ["transacting", "transferring-snx"]
+  },
+  "docs-esp": {
+    "Comenzar": ["introducción", "intro-vision-general", "recursos"],
+    "Comprar SNX": ["comprar-snx"],
+    "Staking": [
+      "staking-snx-vision-general", 
+      "staking-como-participar",
+      "reclamando-ganancias",
+      "estrategias-staking"
+    ],
+    "Trading Sinteticos": ["trading-sinteticos", "trading-como"],
+    "Uniswap": ["pool-seth", "pool-de-arbitrage"],
+    "Miscellaneous": [
+      "liquidez-snx",
+      "agenda-de-inflacion",
+      "sinteticos-inversos"
+    ],
+    "Troubleshooting": [
+      "transacciones",
+      "transferir-snx"
+    ]
   }
 }
