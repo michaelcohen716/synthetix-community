@@ -4,8 +4,8 @@ title: Inflation Schedule
 sidebar_label: Inflation Schedule
 ---
 
-To bootstrap the network early on, the Synthetix team implemented a high incentive inflation model, designed to attract capital and promote staking. More on Synthetix's monetary policy and the decision-making process <a class="link" target="_blank" href="https://blog.synthetix.io/synthetix-monetary-policy-changes/">here</a>. 
+To bootstrap the network early on, the Synthetix team implemented a high incentive inflation model from March 2019, designed to attract capital and promote staking. More on Synthetix's monetary policy and the decision-making process <a class="link" target="_blank" href="https://blog.synthetix.io/synthetix-monetary-policy-changes/">here</a>. 
 
-In March 2020, at the end of the first year of this policy, inflation is due to decline from a 75% annualized rate to a 21% annualized rate. However, there is currently <a href="https://github.com/Synthetixio/SIPs/issues/36" target="_blank" class="link">an ongoing discussion</a> to smooth out inflation starting in late 2019, until the end of the current schedule in 2024. 
+This inflationary monetary policy was planned to begin as a 75% annualized rate distributed weekly, and was set to halve each year for five years. However, <a href="https://blog.synthetix.io/the-capella-release/" target="_blank" class="link">a community-driven initiative</a> that reached consensus through community governance smoothed the inflation rate in December 2019. You can read a detailed post about this process <a href="https://blog.synthetix.io/reaching-monetary-policy-consensus/" target="_blank" class="link">here</a>.
 
-There isn't currently a consensus on the network's terminal inflation rate, effective in March 2024, but some have discussed a rate in the range of 2-3%. <a href="https://docs.google.com/spreadsheets/d/1x2YB-JfKqzzhTgQasAhX1S-VWG2yJlKFkaHzVubhGtk/edit#gid=51157619" class="link" target="_blank">See a potential inflation model here</a>
+This update also added a perpetual 2.5% annual inflation beginning on September 7, 2023, the 235th week on the SNX inflation schedule. This was determined through the same comumunity governance process. 
