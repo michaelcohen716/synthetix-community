@@ -5,6 +5,10 @@
     "previous": "Previous",
     "tagline": "Community-Managed Synthetix Board",
     "docs": {
+      "agenda-de-inflacion": {
+        "title": "Agenda de Inflación",
+        "sidebar_label": "Agenda de Inflación"
+      },
       "arb-pool": {
         "title": "Arbitrage Pool",
         "sidebar_label": "Arbitrage Pool"
@@ -20,6 +24,14 @@
       "claiming-rewards": {
         "title": "Claiming Rewards",
         "sidebar_label": "Claiming Rewards"
+      },
+      "comprar-snx": {
+        "title": "Comprar SNX",
+        "sidebar_label": "Como Comprar"
+      },
+      "estrategias-staking": {
+        "title": "Estrategias de Staking",
+        "sidebar_label": "Estrategias de Staking"
       },
       "eth-as-collateral": {
         "title": "Ether as Collateral",
@@ -41,9 +53,17 @@
         "title": "Project Overview",
         "sidebar_label": "Project Overview"
       },
+      "intro-vision-general": {
+        "title": "Visión General",
+        "sidebar_label": "Visión General"
+      },
       "intro": {
         "title": "Intro",
         "sidebar_label": "Intro"
+      },
+      "introducción": {
+        "title": "Introducción",
+        "sidebar_label": "Introducción"
       },
       "inverse-synths": {
         "title": "Inverse Synths",
@@ -57,9 +77,29 @@
         "title": "Layer 2",
         "sidebar_label": "Layer 2"
       },
+      "liquidez-snx": {
+        "title": "Liquidez de SNX",
+        "sidebar_label": "Liquidez de SNX"
+      },
       "memes": {
         "title": "Memes",
         "sidebar_label": "Memes"
+      },
+      "pool-de-arbitrage": {
+        "title": "Poolde Arbitraje",
+        "sidebar_label": "Pool de Arbitraje"
+      },
+      "pool-seth": {
+        "title": "Pool ETH/sETH",
+        "sidebar_label": "Pool ETH/sETH"
+      },
+      "reclamando-ganancias": {
+        "title": "Reclamando Ganancias",
+        "sidebar_label": "Reclamando Ganancias"
+      },
+      "recursos": {
+        "title": "Recursos",
+        "sidebar_label": "Recursos"
       },
       "resources": {
         "title": "Resources",
@@ -69,13 +109,25 @@
         "title": "ETH/sETH Pool",
         "sidebar_label": "ETH/sETH Pool"
       },
+      "sinteticos-inversos": {
+        "title": "Sintéticos Inversos",
+        "sidebar_label": "Sint▲tico Inversos"
+      },
       "sips-sccps": {
         "title": "SIPs & SCCPs",
         "sidebar_label": "SIPs & SCCPs"
       },
+      "staking-como-participar": {
+        "title": "Staking SNX",
+        "sidebar_label": "Staking-Cómo Participar"
+      },
       "staking-snx-overview": {
         "title": "Staking Overview",
         "sidebar_label": "Overview"
+      },
+      "staking-snx-vision-general": {
+        "title": "Staking-Visión General",
+        "sidebar_label": "Visión General"
       },
       "staking-strategies": {
         "title": "Strategies",
@@ -84,13 +136,29 @@
       "todo": {
         "title": "todo"
       },
+      "trading-como": {
+        "title": "Cómo Hacer Trading Usando Sintéticos",
+        "sidebar_label": "Cómo Hacer Trading Usando Sintéticos"
+      },
+      "trading-sinteticos": {
+        "title": "Trading Vista General",
+        "sidebar_label": "Vista General"
+      },
       "trading-synths": {
         "title": "Trading Overview",
         "sidebar_label": "Overview"
       },
+      "transacciones": {
+        "title": "Transacciones",
+        "sidebar_label": "Transacciones"
+      },
       "transacting": {
         "title": "Transacting",
         "sidebar_label": "Transacting"
+      },
+      "transferir-snx": {
+        "title": "Transferir SNX",
+        "sidebar_label": "Transferir SNX"
       },
       "transferring-snx": {
         "title": "Transferring SNX",
@@ -99,6 +167,7 @@
     },
     "links": {
       "Docs": "Docs",
+      "Docs - ESP": "Docs - ESP",
       "Blog": "Blog"
     },
     "categories": {
@@ -109,7 +178,12 @@
       "Uniswap Pools": "Uniswap Pools",
       "Initiatives": "Initiatives",
       "Miscellaneous": "Miscellaneous",
-      "Troubleshooting": "Troubleshooting"
+      "Troubleshooting": "Troubleshooting",
+      "Comenzar": "Comenzar",
+      "Comprar SNX": "Comprar SNX",
+      "Staking": "Staking",
+      "Trading Sinteticos": "Trading Sinteticos",
+      "Uniswap": "Uniswap"
     }
   },
   "pages-strings": {
