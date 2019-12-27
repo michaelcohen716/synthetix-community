@@ -17,7 +17,7 @@ As of November 2019, the ETH/sETH pool is the largest on Uniswap by far, owing l
 ## Basic Steps
 - Collect at least 1 ETH and 1 sETH token
 - Go to the `Pool`/`Add Liquidity` tab on <a href="https://uniswap.exchange/add-liquidity" class="link" target="_blank">Uniswap</a>
-- Fill out the form to add your liquidity to the pool and confirm the transaction
+- Populate the value fields to add your liquidity to the pool and confirm the transaction
 - Ensure that you've collected at least 1 <a href="https://etherscan.io/token/0xe9cf7887b93150d4f2da7dfc6d502b216438f244" target="_blank" class="link">liquidity token</a> from the pool. You'll be ineligible for rewards if you have fewer
 
 ## Rewards Calculations
