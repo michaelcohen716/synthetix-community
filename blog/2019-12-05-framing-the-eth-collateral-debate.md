@@ -1,7 +1,9 @@
 ---
 title: Framing the ETH Collateral Debate
 ---
-Author: <a class="link" href="https://twitter.com/mjayceee" target="_blank">@mjayceee</a>
+<div class="author">
+<a class="link" href="https://twitter.com/mjayceee" target="_blank">@mjayceee</a>
+</div>
 
 ## Background
 <p>

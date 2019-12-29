@@ -74,8 +74,8 @@ const siteConfig = {
   
   fonts: {
     myFont: [
-      "Roboto",
-      // "Times New Roman",
+      // "Roboto",
+      "Times New Roman",
       "Serif"
       // "Serif"
     ],
