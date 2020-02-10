@@ -60,7 +60,7 @@ A deep and incentivized sETH pool serves three purposes for Synthetix:
 * a more robust ETH/sETH peg
 * a substantial, albeit artificial, source of demand for synths
 
-With the sETH pool in place, the community has now bootstrapped a **key piece of foundational infrastructure** that will prove valuable for a long time. But even in the early days of the sETH pool, it was clear that deeper Uniswap liquidity only bolsters a soft peg, it doesn’t guarantee it. In the Uniwap model, the deeper the liquidity, the harder it is for traders to offset the peg. But &#8722; given a bearish trend &#8722; there’s **no guarantee that the demand will be there to restore the peg** to parity. Traders may not have wanted to enter the system if they weren't confident about exiting their synth position at full value.
+With the sETH pool in place, the community has now bootstrapped a **key piece of foundational infrastructure** that will prove valuable for a long time. But even in the early days of the sETH pool, it was clear that deeper Uniswap liquidity only bolsters a soft peg, it doesn’t guarantee it. In the Uniswap model, the deeper the liquidity, the harder it is for traders to offset the peg. But &#8722; given a bearish trend &#8722; there’s **no guarantee that the demand will be there to restore the peg** to parity. Traders may not have wanted to enter the system if they weren't confident about exiting their synth position at full value.
 
 ## Arb Pool
 
