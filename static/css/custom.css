@@ -46,3 +46,9 @@ p {
 .author {
   margin-top: -15px;
 }
+
+.caption {
+  color: gray;
+  font-size: 14px;
+  margin-top: -35px;
+}
