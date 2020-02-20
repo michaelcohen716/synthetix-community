@@ -17,7 +17,7 @@ There is a <a class="link" target="_blank" href="https://github.com/Synthetixio/
 ## Managing Debt
 Your `C-RATIO` can change without any direct action by you. There's a <a href="https://help.synthetix.io/hc/en-us/articles/360023174973-Why-does-my-total-sUSD-debt-fluctuate-over-time-" target="_blank" class="link">detailed explanation here</a> on why global debt fluctuates over time. In simple terms, the global debt - and your pro rata slice of it - will increase if traders on Synthetix Exchange are profitable and decrease if they are unprofitable.
 
-As of November 2019, the vast majority of traders on Synthetix are long `sETH` and `sBTC`, synthetic ether and bitcoin. There's a section called `Synths Distribution` on the <a href="https://dashboard.synthetix.io/" class="link" target="_blank">Synthetix Dashboard</a> with up-to-date stats on positioning. 
+As of February 2020, the vast majority of traders on Synthetix are long `sETH` and `sBTC`, synthetic ether and bitcoin. There's a section called `Synths Distribution` on the <a href="https://dashboard.synthetix.io/" class="link" target="_blank">Synthetix Dashboard</a> with up-to-date stats on positioning. 
 
 A common strategy to keep `C-RATIO` fairly stable is to use the sUSD you've minted to mirror the global positioning of traders. Your debt will increase if the portfolio does well, but your synth value will increase in constant terms, protecting your `C-RATIO`.
 
@@ -35,7 +35,7 @@ When a trader transacts on Synthetix Exchange, they pay a 0.3% fee. Those fees a
 
 The more sUSD you've minted, the higher proportion of fees you'll receive. 
 
-Global SNX rewards are determined by the SNX inflation schedule. As of November 2019, 90% of weekly inflation is allocated toward staking rewards. More on Synthetix's <a class="link" target="_blank" href="https://blog.synthetix.io/synthetix-monetary-policy-changes/">monetary policy here</a>. 
+Global SNX rewards are determined by the SNX inflation schedule. As of February 2020, 90% of weekly inflation is allocated toward staking rewards. More on Synthetix's <a class="link" target="_blank" href="https://blog.synthetix.io/synthetix-monetary-policy-changes/">monetary policy here</a>. 
 
 If you are below the target `C-RATIO`, you will not be penalized. You just won't be able to claim your rewards.
 

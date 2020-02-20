@@ -9,7 +9,7 @@ Staking is the process that converts the SNX token into pooled collateral for th
 
 
 ## Why stake?
-Stakers earn weekly rewards for collateralizing the network. Without staking, an SNX investor can only profit from an increase in the price of the token. As of November 2019, about 80% of SNX tokens are staked. <a class="link" target="_blank" href="https://dashboard.synthetix.io/">Synthetix Dashboard</a> has up-to-date stats on the network, including the percentage of staked tokens. 
+Stakers earn weekly rewards for collateralizing the network. Without staking, an SNX investor can only profit from an increase in the price of the token. As of February 2020, about 80% of SNX tokens are staked. <a class="link" target="_blank" href="https://dashboard.synthetix.io/">Synthetix Dashboard</a> has up-to-date stats on the network, including the percentage of staked tokens. 
 
 
 ## Risk of staking
