@@ -3,6 +3,7 @@ id: arb-pool
 title: Arbitrage Pool
 sidebar_label: Arbitrage Pool
 ---
+> NOTE: This feature has been deprecated and the team is experimenting with a new discounted SNX auction model to raise ETH to bolster the peg. 
 
 ## Overview
 
