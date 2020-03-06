@@ -21,7 +21,7 @@ As of February 2020, the ETH/sETH pool is the largest on Uniswap by far, owing l
 - Then, follow the steps <a href="https://help.synthetix.io/hc/en-us/articles/360043634533" class="link" target="_blank">laid out in the blog post</a> from the team 
 
 ## Rewards Calculations
-Synthetix distributes 5% of weekly inflation to liquidity providers. As of February 2020, 72,000 SNX are distributed weekly, but this figure will decline gradually as the inflation schedule progresses. The <a href="https://etherscan.io/address/0x48d7f315fedcad332f68aafa017c7c158bc54760" class="link" target="_blank">Unipool rewards contract</a> calculates rewards proportionally to time spent in pool. 
+Synthetix distributes 5% of weekly inflation to liquidity providers. As of March 2020, 64,000 SNX are distributed weekly, but this figure will decline gradually as the inflation schedule progresses. The <a href="https://etherscan.io/address/0x48d7f315fedcad332f68aafa017c7c158bc54760" class="link" target="_blank">Unipool rewards contract</a> calculates rewards proportionally to time spent in pool. 
 
 ## Rewards Distributions
 You'll need to actively claim your liquidity provider rewards from the contract linked above following the instructions in the team's post linked above. For the new Unipool contract, there are no time constraints on claiming rewards. They'll be available whenever you want to claim them.  
