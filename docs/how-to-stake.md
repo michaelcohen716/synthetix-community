@@ -17,9 +17,9 @@ sidebar_label: How to Stake
 
 ## Mechanics
 
-Stakers can only mint sUSD at a minimum collateralization ratio of 750%. Minting the maximum amount on SNX holdings worth $750 will result in $100 of minted sUSD. For the network to remain secure and fully collateralized, the community has settled on a conservative `C-RATIO`. However, the ratio could change in the future.
+Stakers can only mint sUSD at a minimum collateralization ratio of 800%. Minting the maximum amount on SNX holdings worth $800 will result in $100 of minted sUSD. For the network to remain secure and fully collateralized, the community has settled on a conservative `C-RATIO`. However, the ratio could change in the future.
 
 The simple math behind staking is this: if the value of the SNX token increases, you'll be able to mint more. And if the value of the SNX token decreases, your minted value and <a href="/docs/claiming-rewards#managing-debt" class="link">contribution to global debt</a> will remain the same. However, a decrease in SNX value may complicate your ability to <a href="/docs/claiming-rewards" class="link">claim rewards</a>.
 
 
-You can add SNX to your wallet and stake more at any time, provided your collateralization ratio stays above or equal to 750%.
+You can add SNX to your wallet and stake more at any time, provided your collateralization ratio stays above or equal to 800%.
