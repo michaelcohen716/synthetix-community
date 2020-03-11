@@ -14,9 +14,9 @@ sidebar_label: Resources
 
 - **<a class="link" target="_blank" href="https://www.synthetix.io/tokens">Available Tokens (Synths)</a>**: List of tokens with descriptions, symbols, contract addresses
 
-- **<a class="link" target="_blank" href="https://developer.synthetix.io/api/docs/home.html">Developer Portal</a>**
+- **<a class="link" target="_blank" href="https://docs.synthetix.io/">System documentation</a>**
 
-- **<a class="link" target="_blank" href="https://developer.synthetix.io/api/docs/deployed-contracts.html">Synthetix Smart Contracts</a>**
+- **<a class="link" target="_blank" href="https://docs.synthetix.io/contracts/">Synthetix Smart Contracts</a>**
 
 
 ## From the Community
@@ -30,6 +30,8 @@ sidebar_label: Resources
 - **<a class="link" target="_blank" href="http://synthetixstats.com/">SynthetixStats</a>**: Data and visualizations of exchange fees, volume and synth activity
 
 - **<a class="link" target="_blank" href="https://www.youtube.com/watch?v=MKVLvlk_Lhs">Chris Blec Synthetix Intro Video</a>**
+
+- **<a class="link" target="_blank" href="https://www.youtube.com/watch?v=HdJMtzCzYA0">Chris Blec video on staking SNX</a>**
 
 
 ## Investment Reports & Analysis
