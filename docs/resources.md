@@ -27,7 +27,9 @@ sidebar_label: Resources
 
 - **<a class="link" target="_blank" href="https://www.publish0x.com/twicecrypto/synthetix-dummies-xdnxle">Synthetix for Dummies</a>**: Intro and guide
 
-- **<a class="link" target="_blank" href="http://synthetixstats.com/">SynthetixStats</a>**: Data and visualizations of exchange fees, volume and synth activity
+- **<a class="link" target="_blank" href="https://snx.tools/">SNX.Tools</a>**: SNX Network Statistics and Trading/Staking information per address
+
+- **<a class="link" target="_blank" href="https://synthetixstats.com/">SynthetixStats</a>**: Data and visualizations of exchange fees, volume and synth activity
 
 - **<a class="link" target="_blank" href="https://www.youtube.com/watch?v=MKVLvlk_Lhs">Chris Blec Synthetix Intro Video</a>**
 
