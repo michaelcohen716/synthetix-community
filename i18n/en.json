@@ -117,6 +117,10 @@
         "title": "SIPs & SCCPs",
         "sidebar_label": "SIPs & SCCPs"
       },
+      "stablecoin-pool": {
+        "title": "Curve Stablecoin Pool",
+        "sidebar_label": "Curve Stablecoin Pool"
+      },
       "staking-como-participar": {
         "title": "Staking SNX",
         "sidebar_label": "Staking-Cómo Participar"
@@ -160,9 +164,9 @@
         "title": "Transferir SNX",
         "sidebar_label": "Transferir SNX"
       },
-      "transferring-snx": {
-        "title": "Transferring SNX",
-        "sidebar_label": "Transferring SNX"
+      "transferring": {
+        "title": "Transferring SNX or Synths",
+        "sidebar_label": "Transferring SNX or Synths"
       }
     },
     "links": {
@@ -175,15 +179,14 @@
       "Buying SNX": "Buying SNX",
       "Staking SNX": "Staking SNX",
       "Trading Synths": "Trading Synths",
-      "Uniswap Pools": "Uniswap Pools",
+      "Liquidity Pools": "Liquidity Pools",
       "Initiatives": "Initiatives",
       "Miscellaneous": "Miscellaneous",
       "Troubleshooting": "Troubleshooting",
       "Comenzar": "Comenzar",
       "Comprar SNX": "Comprar SNX",
       "Staking": "Staking",
-      "Trading Sinteticos": "Trading Sinteticos",
-      "Uniswap": "Uniswap"
+      "Trading Sinteticos": "Trading Sinteticos"
     }
   },
   "pages-strings": {

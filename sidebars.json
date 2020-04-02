@@ -9,7 +9,7 @@
       "staking-strategies"
     ],
     "Trading Synths": ["trading-synths", "how-to-trade"],
-    "Uniswap Pools": ["seth-pool", "arb-pool"],
+    "Liquidity Pools": ["seth-pool", "stablecoin-pool", "arb-pool"],
     "Initiatives": ["eth-as-collateral", "chainlink-oracles", "layer-2"],
     "Miscellaneous": [
       "is-snx-liquid",
@@ -18,7 +18,7 @@
       "sips-sccps",
       "memes"
     ],
-    "Troubleshooting": ["transacting", "transferring-snx"]
+    "Troubleshooting": ["transacting", "transferring"]
   },
   "docs-esp": {
     "Comenzar": ["introducción", "intro-vision-general", "recursos"],
@@ -30,7 +30,7 @@
       "estrategias-staking"
     ],
     "Trading Sinteticos": ["trading-sinteticos", "trading-como"],
-    "Uniswap": ["pool-seth", "pool-de-arbitrage"],
+    "Liquidity Pools": ["pool-seth", "pool-de-arbitrage"],
     "Miscellaneous": [
       "liquidez-snx",
       "agenda-de-inflacion",

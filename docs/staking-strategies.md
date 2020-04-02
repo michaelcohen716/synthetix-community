@@ -8,7 +8,7 @@ sidebar_label: Strategies
 A conservative staker doesn't mint the maximum amount of sUSD, but instead targets an initial `C-RATIO` of 900%-950%. If the value of SNX increases and their ratio moves significantly above 900%, the conservative staker might consider minting more sUSD to restore the target ratio range. This staker will use sUSD minted to mirror the global synth portfolio on <a href="https://dashboard.synthetix.io/" class="link" target="_blank">Synthetix Dashboard</a>.
 
 ## Neutral
-A neutral staker targets an initial `C-RATIO` of 825%-875%. If the value of SNX increases and their ratio moves above 825%, the neutral staker would consider minting more sUSD to restore a ratio within the target range. This staker might exchange sUSD for ETH, loan out sUSD, or trade for other synthetics, but more likely they would try to align with the global synth portfolio.
+A neutral staker targets an initial `C-RATIO` of 825%-875%. If the value of SNX increases and their ratio moves well above 825%, the neutral staker would consider minting more sUSD to restore a ratio within the target range. This staker might exchange sUSD for ETH, loan out sUSD, or trade for other synthetics, but more likely they would try to align with the global synth portfolio.
 
 
 ## Aggressive
