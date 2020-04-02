@@ -12,7 +12,13 @@ There are four ways to acquire the assets needed to trade on <a href="https://sy
 - Use Ether Collateral to <a href="https://synthetix.exchange/loans" class="link" target="_blank">take out a sETH loan</a> on Synthetix Exchange
 
 ## Executing a Trade
-Choose a trading pair on the assets panel and enter your order size. As of February 202 there are ~20 supported assets, with many more planned. Some are protocol level long assets like sETH and sBTC, paired with an inverse short asset. Some are Ethereum tokens - again, paired with an inverse short version - and some are global fiat currencies. The team has also introduced synthetic baskets of assets, with short/long pairs of a centralized exchange token basket and a decentralized finance basket now available.
+Choose a trading pair on the assets panel and enter your order size. As of April 2020 there are ~30 supported assets, with many more planned. Types of assets are:
+* protocol level long assets like sETH and sBTC, paired with an inverse short asset
+* Ethereum tokens - again, paired with an inverse short version
+* global fiat currencies
+* global equity indices
+* synthetic baskets of assets, with short/long pairs (ex: centralized exchange token basket and a decentralized finance basket, now available)
+
 
 Traders can execute a transaction by selecting an input asset, an output asset and an amount. The trading fee is 0.3% of the transaction value.
 

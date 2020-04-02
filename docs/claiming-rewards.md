@@ -9,7 +9,7 @@ sidebar_label: Claiming Rewards
 - Use <a class="link" target="_blank" href="https://beta.mintr.synthetix.io/">Mintr</a> to navigate to the `Claim` section.
 - Ensure that your collateralization ratio is high enough to claim: the required ratio is 800%, but if you're within 1% (i.e., above ~792%), you'll be able to claim. If not, you'll have to <a href="/docs/buying-snx" class="link"> buy more SNX</a> or <a href="/docs/transferring-snx#burning-susd" class="link">burn sUSD</a> to restore your `C-RATIO`.
 - Press `Claim Now` to collect both your sUSD and SNX weekly rewards.
-- You'll have to claim once every two weeks at a minimum. After two weeks, your rewards will be pooled back in with the communal rewards pool.
+- As of the Hadar release, you'll have to claim every week. After the fee period has ended, your rewards will be pooled back in with the communal rewards pool.
 - Claimed SNX rewards are `escrowed` for 1 year. You won't be able to transfer or sell them.
 
 There is a <a class="link" target="_blank" href="https://github.com/Synthetixio/SIPs/issues/58">current proposed SIP</a> to make rewards calculation dynamic and phase out the snapshot model, in favor of time-based rewards.

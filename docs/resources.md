@@ -8,6 +8,8 @@ sidebar_label: Resources
 
 - **<a class="link" target="_blank" href="https://www.synthetix.io/uploads/synthetix_litepaper.pdf">Synthetix Litepaper</a>**: 8-page summary of the protocol's features (Updated Nov. 2019)
 
+- **<a class="link" target="_blank" href="https://blog.synthetix.io/2020-roadmap/">2020 Roadmap</a>**
+
 - **<a class="link" target="_blank" href="https://blog.synthetix.io/">Synthetix Blog</a>**: Product updates from the team
 
 - **<a class="link" target="_blank" href="https://help.synthetix.io/">Synthetix Help Page</a>**: FAQs with detailed explanations
@@ -23,17 +25,17 @@ sidebar_label: Resources
 
 - **<a class="link" target="_blank" href="https://discordapp.com/channels/413890591840272394/413890591840272398">Community Discord</a>**: Active community chat room
 
+- **<a class="link" target="_blank" href="https://snx.tools/">SNX.Tools</a>**: SNX Network Statistics, Trading/Staking information by address, staking and liquidity rewards calculators
+
 - **<a class="link" target="_blank" href="https://defitutorials.substack.com/p/the-ultimate-guide-to-synthetix">The Ultimate Guide to Synthetix</a>**: Intro and guide
 
 - **<a class="link" target="_blank" href="https://www.publish0x.com/twicecrypto/synthetix-dummies-xdnxle">Synthetix for Dummies</a>**: Intro and guide
 
-- **<a class="link" target="_blank" href="https://snx.tools/">SNX.Tools</a>**: SNX Network Statistics and Trading/Staking information per address
-
-- **<a class="link" target="_blank" href="https://synthetixstats.com/">SynthetixStats</a>**: Data and visualizations of exchange fees, volume and synth activity
-
 - **<a class="link" target="_blank" href="https://www.youtube.com/watch?v=MKVLvlk_Lhs">Chris Blec Synthetix Intro Video</a>**
 
 - **<a class="link" target="_blank" href="https://www.youtube.com/watch?v=HdJMtzCzYA0">Chris Blec video on staking SNX</a>**
+
+- **<a class="link" target="_blank" href="https://synthetixstats.com/">SynthetixStats</a>**: Data and visualizations of exchange fees, volume and synth activity
 
 
 ## Investment Reports & Analysis

@@ -8,7 +8,7 @@ sidebar_label: How to Stake
 
 - Transfer SNX to a compatible wallet: MetaMask, Trezor, Ledger and Coinbase Wallet are supported
 > Some stakers have reported difficulty staking and claiming with Ledger
-- Go to <a class="link" target="_blank" href="https://beta.mintr.synthetix.io/">Mintr</a>
+- Go to <a class="link" target="_blank" href="https://mintr.synthetix.io/">Mintr</a>
 - Select the Mint option
 - Press `Max` to populate the maximum amount of sUSD you'll be able to mint, given your SNX holdings
 - Adjust the input amount to suit <a href="/docs/staking-strategies" class="link">your strategy</a>, press `Mint`, and confirm the transaction
