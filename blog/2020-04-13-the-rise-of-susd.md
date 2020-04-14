@@ -1,5 +1,7 @@
 ---
 title: The Rise of sUSD
+image: /docs/assets/rise-of-susd/stablecoins.png
+
 ---
 <div class="author">
 <a class="link" href="https://twitter.com/mjayceee" target="_blank">@mjayceee</a>
