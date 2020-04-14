@@ -40,7 +40,7 @@ When the peg is under $1, the Maker system theoretically incentivizes CDP owners
 
 There are always some arbitrageurs waiting in the wings, but at some point the overlap between CDP owners and traders positioned to perform arbitrage disappears. And the equilibrium price where this occurs could very well be 96 or 97 or 98 cents. 
 
-> To be fair to Maker, there's an argument to be made that the minting of DAI will become institionalized in such a way that large investors like Paradigm will be responsible for an outsized share of liquidity. As major minters, they'll take on the burden of performing arbitrage at the tempo necessary to maintain a strong peg, as it's in their financial interests as MKR holders. 
+> To be fair to Maker, there's an argument to be made that the minting of DAI will become institutionalized in such a way that large investors like Paradigm will be responsible for an outsized share of liquidity. As major minters, they'll take on the burden of performing arbitrage at the tempo necessary to maintain a strong peg, as it's in their financial interests as MKR holders. 
 
 ___
 
