@@ -1,6 +1,6 @@
 ---
 title: The Rise of sUSD
-image: /docs/assets/rise-of-susd/stablecoins.png
+image: https://images.app.goo.gl/Z8cqfS8KQpF6WkvR9
 
 ---
 <div class="author">
