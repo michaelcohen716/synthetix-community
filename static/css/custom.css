@@ -53,6 +53,8 @@ p {
   margin-top: -35px;
 }
 
-.mainContainer {
-  padding: 40px 40px !important;
+@media only screen and (min-width: 1024px) {
+  .mainContainer {
+    padding: 40px 40px !important;
+  }
 }
