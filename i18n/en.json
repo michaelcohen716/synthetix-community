@@ -137,6 +137,10 @@
         "title": "Strategies",
         "sidebar_label": "Strategies"
       },
+      "susd-tracker": {
+        "title": "sUSD Tracker",
+        "sidebar_label": "sUSD Tracker"
+      },
       "todo": {
         "title": "todo"
       },
