@@ -12,6 +12,7 @@
     "Liquidity Pools": ["seth-pool", "stablecoin-pool", "arb-pool"],
     "Initiatives": ["eth-as-collateral", "chainlink-oracles", "layer-2"],
     "Miscellaneous": [
+      "susd-tracker",
       "is-snx-liquid",
       "inflation-schedule",
       "inverse-synths",
