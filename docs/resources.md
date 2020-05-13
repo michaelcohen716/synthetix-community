@@ -54,6 +54,8 @@ sidebar_label: Resources
 
 - **<a class="link" target="_blank" href="https://twitter.com/mrjasonchoi/status/1239923667909275649">Interview with Framework's Vance Spencer</a>**: Blockcrunch podcast interview with Framework Ventures' Vance Spencer — Synthetix content 26:00-38:00. 
 
+- **<a class="link" target="_blank" href="https://www.youtube.com/watch?v=YodjEPPE9cg">Kain's Ethereal 2020 talk</a>**: "Unstoppable Synthetix: How Synthetix Became Censorship-Resistant | Ethereal Virtual Summit 2020"
+
 ## Newsletters
 
 - **<a class="link" target="_blank" href="https://www.synthetix.io/community">Synthetix newsletter</a>**: Subscribe to the mailing list here for a monthly newsletter from the Synthetix team summarising the biggest news of the past month
