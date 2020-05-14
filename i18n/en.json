@@ -171,6 +171,10 @@
       "transferring": {
         "title": "Transferring SNX or Synths",
         "sidebar_label": "Transferring SNX or Synths"
+      },
+      "why-is-gas-so-high": {
+        "title": "Why Is Gas So High?",
+        "sidebar_label": "Why Is Gas So High?"
       }
     },
     "links": {

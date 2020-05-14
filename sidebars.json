@@ -13,6 +13,7 @@
     "Initiatives": ["eth-as-collateral", "chainlink-oracles", "layer-2"],
     "Miscellaneous": [
       "susd-tracker",
+      "why-is-gas-so-high",
       "is-snx-liquid",
       "inflation-schedule",
       "inverse-synths",
