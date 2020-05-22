@@ -20,7 +20,7 @@
       "sips-sccps",
       "memes"
     ],
-    "Troubleshooting": ["transacting", "transferring"]
+    "Troubleshooting": ["transacting", "transferring," "tip-bot"]
   },
   "docs-esp": {
     "Comenzar": ["introducción", "intro-vision-general", "recursos"],
