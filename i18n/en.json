@@ -141,6 +141,10 @@
         "title": "sUSD Tracker",
         "sidebar_label": "sUSD Tracker"
       },
+      "tip-bot": {
+        "title": "Discord Tip Bot",
+        "sidebar_label": "Discord Tip Bot"
+      },
       "todo": {
         "title": "todo"
       },

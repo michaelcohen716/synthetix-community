@@ -46,6 +46,9 @@ sidebar_label: Resources
 
 - **<a class="link" target="_blank" href="https://sigilfund.com/research/synthetix-io-sigil-research/">Sigil Research Report</a>**: Analysis of the project and token economics
 
+- **<a class="link" target="_blank" href="https://assets.ctfassets.net/hfgyig42jimx/4WOg5vv6wWjeWpNpgcCE8M/525f20f6e3a193969fd5850de0638c55/Crypto.com_DeFi_Report_-_Synthetix.pdf">Crypto.com Research Report</a>**: Analysis of the project and token economics
+
+
 ## Press
 
 - **<a class="link" target="_blank" href="https://fiftyonepercent.podbean.com/e/synthetixs-kain-warwick-how-ethereum-will-absorb-a-trillion-dollar-market/">Delphi Digital Podcast</a>**: Interview with Synthetix founder, Kain
