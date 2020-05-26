@@ -1,3 +1,9 @@
+---
+id: staking
+title: Staking FAQs
+sidebar_label: Staking FAQs
+---
+
 ## Why does my total debt fluctuate over time? 
 
 When you stake SNX and mint sUSD, you create a 'debt,' which is how much sUSD you need to burn to unlock your SNX again. Your debt represents a proportion of all the debt in the system. Whenever someone makes a gain through Synths, they make it against all the debt in the system. Therefore, if the system debt increases, your debt will proportionately increase as well. 
