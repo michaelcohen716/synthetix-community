@@ -24,4 +24,4 @@ To withdraw your SNX, simply DM the tip bot `$withdraw SNX` and follow the steps
 
 ## Expert mode
 
-This post just covers the basics. For the rest of the command options, head [here](https://tip.cc/guides/tipping). 
+This post just covers the basics. For the rest of the command options, head <a href="https://tip.cc/guides/tipping" class="link" target="_blank">here</a>. 
