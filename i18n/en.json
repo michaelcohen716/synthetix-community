@@ -85,6 +85,10 @@
         "title": "Memes",
         "sidebar_label": "Memes"
       },
+      "other": {
+        "title": "Other FAQs",
+        "sidebar_label": "Other FAQs"          
+      },
       "pool-de-arbitrage": {
         "title": "Poolde Arbitraje",
         "sidebar_label": "Pool de Arbitraje"
@@ -120,6 +124,10 @@
       "stablecoin-pool": {
         "title": "Curve Stablecoin Pool",
         "sidebar_label": "Curve Stablecoin Pool"
+      },
+      "staking": {
+        "title": "Staking FAQs",
+        "sidebar_label": "Staking FAQs"        
       },
       "staking-como-participar": {
         "title": "Staking SNX",

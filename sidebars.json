@@ -21,7 +21,8 @@
       "sips-sccps",
       "memes"
     ],
-    "Troubleshooting": ["transacting", "transferring"]
+    "Troubleshooting": ["transacting", "transferring"],
+    "FAQs": ["staking", "other"]
   },
   "docs-esp": {
     "Comenzar": ["introducción", "intro-vision-general", "recursos"],
