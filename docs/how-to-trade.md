@@ -7,8 +7,7 @@ sidebar_label: How to Trade
 ## Accessing the Ecosystem
 There are four ways to acquire the assets needed to trade on <a href="https://synthetix.exchange/" target="_blank" class="link">Synthetix Exchange</a>:
 - <a href="/docs/staking-snx-overview" class="link">Stake SNX</a> and mint sUSD to trade
-- Use Uniswap to exchange ETH for sETH to trade on Exchange
-- Use the utility on the left panel of the Exchange interface to exchange ETH for sUSD
+- Use Uniswap or DEX.AG to exchange ETH for sETH or sUSD to trade on Exchange
 - Use Ether Collateral to <a href="https://synthetix.exchange/loans" class="link" target="_blank">take out a sETH loan</a> on Synthetix Exchange
 
 ## Executing a Trade
