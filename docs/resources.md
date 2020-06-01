@@ -6,7 +6,7 @@ sidebar_label: Resources
 
 ## From the Team
 
-- **<a class="link" target="_blank" href="https://www.synthetix.io/uploads/synthetix_litepaper.pdf">Synthetix Litepaper</a>**: 8-page summary of the protocol's features (Updated Nov. 2019)
+- **<a class="link" target="_blank" href="https://www.synthetix.io/uploads/synthetix_litepaper.pdf">Synthetix Litepaper</a>**: 8-page summary of the protocol's features (Updated March 2020)
 
 - **<a class="link" target="_blank" href="https://blog.synthetix.io/2020-roadmap/">2020 Roadmap</a>**
 
