@@ -20,3 +20,10 @@ There is currently an sUSD liquidity pool on [Curve](https://beta.curve.fi/) whe
 The Curve pool is a decentralized way to provide on/off ramps to the Synth system, so newcomers can start trading easily and exit the system easily. Changes in the exchange rate are bad for liquidity providers (i.e. [impermanent loss](https://tokentuesdays.substack.com/p/eliminating-impermanent-loss)). 
 Since the sUSD/stablecoin ratio should be pretty much constant, that pool is ideal for liquidity providers: there is no impermanent loss so the liquidity providers should end up getting all of the exchange fees. To make it even more enticing for LPs, some of the SNX inflationary reward has been diverted to them. The result is a deep liquidity pool, which is good for the Synth ecosystem. 
 Before this liquidity pool, the main way to get in and out of trading on Synthetix.Exchange (other than by minting) was to use thin markets on centralized exchanges.
+
+## Why aren't my SNX tokens showing up in Etherscan (or another platform)?
+
+There are several reasons why they might not be showing up. The most common reason is that you were affected by the proxy contract cutover on [May 10](https://blog.synthetix.io/proxy-contract-cutover-on-may-10/). This can look like [this](https://ibb.co/0DWzZQN). 
+If you want them to show up on that platform, you'll need to 'emit an event' with your SNX by interacting them in some way. The simplest way is by sending yourself (i.e. to your own wallet) a transfer for 0 SNX. using this token address: 0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F. Please note you'll need some ETH in your wallet to pay for gas. 
+
+One other reason is that your SNX is still escrowed from the Havven token sale — they can be vested through Mintr in the ESCROW tab by clicking on the 'View Token Sale Escrow' button.
