@@ -37,6 +37,10 @@
         "title": "Ether as Collateral",
         "sidebar_label": "Ether as Collateral"
       },
+      "faq-hav-no-snx": {
+        "title": "I have HAV but no SNX",
+        "sidebar_label": "I have HAV but no SNX"
+      },
       "how-to-stake": {
         "title": "Staking SNX",
         "sidebar_label": "How to Stake"
@@ -87,7 +91,7 @@
       },
       "other": {
         "title": "Other FAQs",
-        "sidebar_label": "Other FAQs"          
+        "sidebar_label": "Other FAQs"
       },
       "pool-de-arbitrage": {
         "title": "Poolde Arbitraje",
@@ -125,10 +129,6 @@
         "title": "Curve Stablecoin Pool",
         "sidebar_label": "Curve Stablecoin Pool"
       },
-      "staking": {
-        "title": "Staking FAQs",
-        "sidebar_label": "Staking FAQs"        
-      },
       "staking-como-participar": {
         "title": "Staking SNX",
         "sidebar_label": "Staking-Cómo Participar"
@@ -144,6 +144,10 @@
       "staking-strategies": {
         "title": "Strategies",
         "sidebar_label": "Strategies"
+      },
+      "staking": {
+        "title": "Staking FAQs",
+        "sidebar_label": "Staking FAQs"
       },
       "susd-tracker": {
         "title": "sUSD Tracker",
@@ -203,6 +207,7 @@
       "Initiatives": "Initiatives",
       "Miscellaneous": "Miscellaneous",
       "Troubleshooting": "Troubleshooting",
+      "FAQs": "FAQs",
       "Comenzar": "Comenzar",
       "Comprar SNX": "Comprar SNX",
       "Staking": "Staking",
