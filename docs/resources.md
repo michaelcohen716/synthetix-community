@@ -4,6 +4,13 @@ title: Resources
 sidebar_label: Resources
 ---
 
+## Yield Farming
+
+- **<a class="link" target="_blank" href="https://snx.tools/tools/rewards/0x042eD37d32B88AB6b1C2E7B8a400dcDc728050bc">SNX Tools Rewards Calculator</a>**: Rewards calculator for staking SNX, contributing liquidity to Unipool, Curvepool, iETH Pool 
+
+- **<a class="link" target="_blank" href="https://yieldfarming.info/">YieldFarming.info</a>**: Rewards calculator for Uniswap, Curve, iETH, Balancer incentive pools
+
+
 ## From the Team
 
 - **<a class="link" target="_blank" href="https://www.synthetix.io/uploads/synthetix_litepaper.pdf">Synthetix Litepaper</a>**: 8-page summary of the protocol's features (Updated March 2020)
