@@ -59,3 +59,9 @@ Once you've paid back your sUSD debt, your SNX will be unlocked and able to be t
 When you "claim" in the Rewards tab on Mintr you are assigned your % of SNX in an escrow record in the RewardEscrow Contract. Your rewards will not show in your wallet address but they are assigned to your wallet address to be vested in 12 months from their claim date.
 
 You will now be able to mint from those escrowed SNX as they are also used as your collateral. So mint away if you can and compound your next weeks SNX rewards. 
+
+## Why does the number of my staked SNX fluctuate? 
+
+If you've staked your SNX, you might have noticed that the number of staked SNX in your wallet can change. This is due to fluctuations in the SNX price. If you stake your SNX at a 750% Collateralisation Ratio, and the SNX value increases, then your C-Ratio will increase and some of your SNX will be unstaked. This is because only enough SNX to cover a 750% ratio will be staked. But then if the SNX value decreases, and your C-Ratio goes back to 750%, all of your SNX will be staked once again. 
+
+If your C-Ratio is above 750%, you can always choose to stake the rest of your SNX by selecting 'Mint Max.' This will increase the number of staking rewards you are entitled to receive. 
