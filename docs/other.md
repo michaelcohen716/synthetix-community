@@ -27,3 +27,13 @@ There are several reasons why they might not be showing up. The most common reas
 If you want them to show up on that platform, you'll need to 'emit an event' with your SNX by interacting them in some way. The simplest way is by sending yourself (i.e. to your own wallet) a transfer for 0 SNX. using this token address: [0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F](https://etherscan.io/token/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f). Please note you'll need some ETH in your wallet to pay for gas. 
 
 One other reason is that your SNX is still escrowed from the Havven token sale — they can be vested through [Mintr](https://mintr.synthetix.io) in the ESCROW tab by clicking on the 'View Token Sale Escrow' button.
+
+## Why are my transactions still pending? 
+
+[Here's a useful guide](https://ethgasstation.info/blog/stuck-transaction-guide/)
+
+## Why are Synthetix transactions so expensive? 
+
+Transactions cost a certain amount proportional to how much processing power is required for Ethereum miners to process it. The Synthetix system and tokens are more complex than the majority of other Ethereum projects, so its transactions—including simple token transfers—require more gas to be completed. 
+
+If you are used to tokens that are far cheaper to interact with or transfer, that is because they can do far less than the tokens in the Synthetix system. Unfortunately the tradeoff for having a token that can do many things is that it can cost more. The best way to get around this is to try to pay as low GWEI as possible. For more info on how gas works on Ethereum, see [this article](https://blockgeeks.com/guides/ethereum-gas/). 
