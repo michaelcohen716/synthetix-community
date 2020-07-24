@@ -18,7 +18,7 @@ There is $50k of sUSD in circulation, which represents the total value of all Sy
 
 WAIT! Where did that 'free money' come from? The answer is that the total debt of the other SNX stakers, the ones who supplied the sUSD, went up by 50% from $50k sUSD to $75k sUSD. So now they will need to burn that much to unlock their SNX. 
 
-## How do I increase my C-Ratio (Collateralisation Ratio)
+## How do I increase my C-Ratio (Collateralisation Ratio)?
 
 If your C-Ratio is **below** the Target Collateralization Ratio (currently set at 800% Collateral at this of this article), you will be blocked from claiming rewards and you will need to increase your C-Ratio to claim. 
 
@@ -50,7 +50,10 @@ If you have an sUSD debt but you have no sUSD in your wallet then you must have 
 - Transferred it to an exchange and sold it
 - Sent it to the Depot to be purchased via Synthetix.Exchange
 - Exchanged it into another Synth on Synthetix.Exchange
-- To unlock your SNX, you must acquire the amount of sUSD under Debt in Mintr. If you transferred it to another wallet or an exchange, you will need to transfer it back into the wallet that contains your locked SNX. And if you sold the sUSD, you must buy it back. 
+
+To unlock your SNX, you must acquire the amount of sUSD under Debt in Mintr. If you transferred it to another wallet or an exchange, you will need to transfer it back into the wallet that contains your locked SNX. And if you sold the sUSD, you must buy it back. 
+
+You can purchase sUSD easily from [Curve](https://curve.fi) or [Uniswap](https://uniswap.exchange). 
 
 Once you've paid back your sUSD debt, your SNX will be unlocked and able to be transferred. 
 
@@ -65,3 +68,32 @@ You will now be able to mint from those escrowed SNX as they are also used as yo
 If you've staked your SNX, you might have noticed that the number of staked SNX in your wallet can change. This is due to fluctuations in the SNX price. If you stake your SNX at a 750% Collateralisation Ratio, and the SNX value increases, then your C-Ratio will increase and some of your SNX will be unstaked. This is because only enough SNX to cover a 750% ratio will be staked. But then if the SNX value decreases, and your C-Ratio goes back to 750%, all of your SNX will be staked once again. 
 
 If your C-Ratio is above 750%, you can always choose to stake the rest of your SNX by selecting 'Mint Max.' This will increase the number of staking rewards you are entitled to receive. 
+
+## How can I check exactly how many of my SNX are unlocked?
+
+If you try to send more SNX than you have "transferrable" then the transaction will fail. The easiest way to check how many SNX are unlocked is on Mintr in the following screen: 
+
+<img src="static/img/unlockedSNX.png">
+
+## How can I delegate claiming rewards, minting, or burning to another wallet? 
+
+The full process is outlined in detail [here](https://blog.synthetix.io/a-guide-to-delegation/).
+
+## Now that I've staked SNX and minted sUSD, what can I do with it? 
+
+Firstly, there is [Synthetix.Exchange](https://synthetix.exchange), which is a trading platform allowing you to trade your sUSD for any of our synthetic assets (Synths). It currently supports a variety of forex currencies (e.g. sEUR), cryptocurrencies (e.g. sBTC), indices (e.g. sFTSE), and assets (e.g. gold/ounce as sXAU). The best thing is, there's no slippage and it doesn't require a counterparty, so there's no waiting around for your trade to get filled. So for example, if you'd like exposure to Bitcoin without leaving Ethereum, you can trade your sUSD for sBTC on Synthetix.Exchange. 
+
+Secondly, you can sell it on somewhere like [Curve](https://curve.fi) or [Uniswap](https://uniswap.exchange). 
+
+Thirdly, you can lend it out on a lending platform such as [AAVE](https://aave.com). 
+
+Keep in mind if you choose any of these options that you'll need to burn enough sUSD to cover your 'debt' if you want to unstake your SNX. 
+
+## How can I stake SNX and receive staking rewards?
+
+In February 2019, we provided a [long explanation](https://blog.synthetix.io/synthetix-monetary-policy-changes/) of why we decided to change the total SNX supply over the next five years from 100,000,000 to ~260,000,000, after which there will be an annual [2.5% terminal inflation for perpetuity](https://blog.synthetix.io/reaching-monetary-policy-consensus/). The primary reason is to increase greater incentive for SNX holders to stake their SNX and mint Synths, and the schedule is designed to reward early contributors. 
+
+The way the SNX staking rewards work is that holders who have staked their SNX and keep their Collateralisation Ratio at or above the target receive a portion of the additional SNX added to the supply. Rewards are distributed weekly to be claimed by SNX holders the following week. 
+
+**Fee Claim: Blocked Status**
+Rewards and Fees are blocked from being able to claim if you are below the target C-Ratio. To unblock claiming your rewards, you must burn enough sUSD to get to the target.
