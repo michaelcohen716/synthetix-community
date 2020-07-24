@@ -65,3 +65,10 @@ You will now be able to mint from those escrowed SNX as they are also used as yo
 If you've staked your SNX, you might have noticed that the number of staked SNX in your wallet can change. This is due to fluctuations in the SNX price. If you stake your SNX at a 750% Collateralisation Ratio, and the SNX value increases, then your C-Ratio will increase and some of your SNX will be unstaked. This is because only enough SNX to cover a 750% ratio will be staked. But then if the SNX value decreases, and your C-Ratio goes back to 750%, all of your SNX will be staked once again. 
 
 If your C-Ratio is above 750%, you can always choose to stake the rest of your SNX by selecting 'Mint Max.' This will increase the number of staking rewards you are entitled to receive. 
+
+## How can I check exactly how many of my SNX are unlocked?
+
+If you try to send more SNX than you have "transferrable" then the transaction will fail. The easiest way to check how many SNX are unlocked is on Mintr in the following screen: 
+
+<img src="static/img/unlockedSNX.png">
+
