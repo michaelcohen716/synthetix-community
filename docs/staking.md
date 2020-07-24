@@ -53,7 +53,7 @@ If you have an sUSD debt but you have no sUSD in your wallet then you must have 
 
 To unlock your SNX, you must acquire the amount of sUSD under Debt in Mintr. If you transferred it to another wallet or an exchange, you will need to transfer it back into the wallet that contains your locked SNX. And if you sold the sUSD, you must buy it back. 
 
-You can purchase sUSD easily from [Curve](https://curve.fi] or [Uniswap](https://uniswap.exchange). 
+You can purchase sUSD easily from [Curve](https://curve.fi) or [Uniswap](https://uniswap.exchange). 
 
 Once you've paid back your sUSD debt, your SNX will be unlocked and able to be transferred. 
 
@@ -83,7 +83,7 @@ The full process is outlined in detail [here](https://blog.synthetix.io/a-guide-
 
 Firstly, there is [Synthetix.Exchange](https://synthetix.exchange), which is a trading platform allowing you to trade your sUSD for any of our synthetic assets (Synths). It currently supports a variety of forex currencies (e.g. sEUR), cryptocurrencies (e.g. sBTC), indices (e.g. sFTSE), and assets (e.g. gold/ounce as sXAU). The best thing is, there's no slippage and it doesn't require a counterparty, so there's no waiting around for your trade to get filled. So for example, if you'd like exposure to Bitcoin without leaving Ethereum, you can trade your sUSD for sBTC on Synthetix.Exchange. 
 
-Secondly, you can sell it on somewhere like [Curve](https://curve.fi] or [Uniswap](https://uniswap.exchange). 
+Secondly, you can sell it on somewhere like [Curve](https://curve.fi) or [Uniswap](https://uniswap.exchange). 
 
 Thirdly, you can lend it out on a lending platform such as [AAVE](https://aave.com). 
 
