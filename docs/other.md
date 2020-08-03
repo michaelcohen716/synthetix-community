@@ -4,6 +4,10 @@ title: Other FAQs
 sidebar_label: Other FAQs
 ---
 
+A range of common miscellaneous questions about Synthetix are listed here. 
+
+If your question isn't listed on this page, please join the [Synthetix Discord](http://discordapp.com/invite/FYu4qms) and ask the community in the #tech-support channel. 
+
 ## Where do Synth price feeds come from? 
 
 Synthetix has partnered with Chainlink, whose network of independent node operators supply [price feeds](https://feeds.chain.link/) for our fiat currencies and commodities. 
