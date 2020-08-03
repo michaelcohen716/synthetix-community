@@ -6,7 +6,9 @@ sidebar_label: Staking FAQs
 
 A range of common questions about staking SNX are listed here. If you have other questions, try the [other FAQ's section](https://synthetix.community/docs/other). 
 
-If your question isn't listed on either of these pages, please join the [Synthetix Discord](http://discordapp.com/invite/FYu4qms) and ask the community in the #tech-support channel. Alternatively, you can try the [#faq-bot channel](https://discord.gg/cRDcvcX) in Discord. 
+If your question isn't listed on either of these pages, please join the [Synthetix Discord](http://discordapp.com/invite/FYu4qms) and ask the community in the #tech-support channel. 
+
+Alternatively, you can try the [#faq-bot channel](https://discord.gg/cRDcvcX) in Discord. 
 
 ## Why does my total debt fluctuate over time? 
 
