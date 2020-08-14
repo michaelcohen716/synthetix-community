@@ -103,3 +103,7 @@ The way the SNX staking rewards work is that holders who have staked their SNX a
 
 **Fee Claim: Blocked Status**
 Rewards and Fees are blocked from being able to claim if you are below the target C-Ratio. To unblock claiming your rewards, you must burn enough sUSD to get to the target.
+
+## Why am I blocked from claiming rewards?
+
+You are blocked from claiming rewards because your Collateralisation Ratio is below the required level (usually 750%, with a small buffer to allow for price fluctuations). To increase your Collateralisation Ratio, you'll need to burn enough sUSD to get your Collateralisation Ratio above 750%. 
