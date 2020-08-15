@@ -4,6 +4,12 @@ title: Other FAQs
 sidebar_label: Other FAQs
 ---
 
+A range of common miscellaneous questions about Synthetix are listed here. 
+
+If your question isn't listed on this page, please join the [Synthetix Discord](http://discordapp.com/invite/FYu4qms) and ask the community in the #tech-support channel. 
+
+Alternatively, you can try the [#faq-bot channel](https://discord.gg/cRDcvcX) in Discord. 
+
 ## Where do Synth price feeds come from? 
 
 Synthetix has partnered with Chainlink, whose network of independent node operators supply [price feeds](https://feeds.chain.link/) for our fiat currencies and commodities. 
@@ -37,3 +43,14 @@ One other reason is that your SNX is still escrowed from the Havven token sale �
 Transactions cost a certain amount proportional to how much processing power is required for Ethereum miners to process it. The Synthetix system and tokens are more complex than the majority of other Ethereum projects, so its transactions—including simple token transfers—require more gas to be completed. 
 
 If you are used to tokens that are far cheaper to interact with or transfer, that is because they can do far less than the tokens in the Synthetix system. Unfortunately the tradeoff for having a token that can do many things is that it can cost more. The best way to get around this is to try to pay as low GWEI as possible. For more info on how gas works on Ethereum, see [this article](https://blockgeeks.com/guides/ethereum-gas/). 
+
+## How to vest your escrowed HAV from the token sale
+
+If you've got some escrowed SNX (formerly HAV) from the token sale in February 2018, then you'll need to vest (unlock) them.
+
+- Go to Mintr, and connect your wallet. 
+- In the tabs at the top, select 'ESCROW.' 
+- Select the 'VIEW TOKEN SALE ESCROW' button. 
+- It should give you a schedule of when tokens have become available for vesting. To vest, press the 'VEST NOW' button, which will release the unlocked SNX into your wallet. 
+- Please note that while your tokens were still escrowed, you were able to stake them and mint sUSD against them. If you did this, then you are likely to still have a 'debt' to pay back before you can transfer them. You may need to purchase extra sUSD (e.g. Uniswap, Kyber) to pay it back. 
+- Alternatively, to vest them directly using the ABI on MEW, follow the instructions outlined [here](https://blog.synthetix.io/escrowed-havvens-update/). 

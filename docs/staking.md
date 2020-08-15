@@ -4,6 +4,12 @@ title: Staking FAQs
 sidebar_label: Staking FAQs
 ---
 
+A range of common questions about staking SNX are listed here. If you have other questions, try the [other FAQ's section](https://synthetix.community/docs/other). 
+
+If your question isn't listed on either of these pages, please join the [Synthetix Discord](http://discordapp.com/invite/FYu4qms) and ask the community in the #tech-support channel. 
+
+Alternatively, you can try the [#faq-bot channel](https://discord.gg/cRDcvcX) in Discord. 
+
 ## Why does my total debt fluctuate over time? 
 
 When you stake SNX and mint sUSD, you create a 'debt,' which is how much sUSD you need to burn to unlock your SNX again. Your debt represents a proportion of all the debt in the system. Whenever someone makes a gain through Synths, they make it against all the debt in the system. Therefore, if the system debt increases, your debt will proportionately increase as well. 
@@ -97,3 +103,7 @@ The way the SNX staking rewards work is that holders who have staked their SNX a
 
 **Fee Claim: Blocked Status**
 Rewards and Fees are blocked from being able to claim if you are below the target C-Ratio. To unblock claiming your rewards, you must burn enough sUSD to get to the target.
+
+## Why am I blocked from claiming rewards?
+
+You are blocked from claiming rewards because your Collateralisation Ratio is below the required level (usually 750%, with a small buffer to allow for price fluctuations). To increase your Collateralisation Ratio, you'll need to burn enough sUSD to get your Collateralisation Ratio above 750%. 
