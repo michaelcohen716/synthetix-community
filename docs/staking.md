@@ -106,4 +106,4 @@ Rewards and Fees are blocked from being able to claim if you are below the targe
 
 ## Why am I blocked from claiming rewards?
 
-You are blocked from claiming rewards because your Collateralisation Ratio is below the required level (usually 750%, with a small buffer to allow for price fluctuations). To increase your Collateralisation Ratio, you'll need to burn enough sUSD to get your Collateralisation Ratio above 750%. 
+You are blocked from claiming rewards because your Collateralisation Ratio is below the required level (usually 600%, with a small buffer to allow for price fluctuations). To increase your Collateralisation Ratio, you'll need to burn enough sUSD to get your Collateralisation Ratio above 600%. 
