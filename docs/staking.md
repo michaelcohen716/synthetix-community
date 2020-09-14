@@ -45,7 +45,7 @@ Your Collateralization Ratio must be above the Target Collateralization Ratio to
 
 To unlock your locked SNX, you need to 'burn' the sUSD you debt owed. Burning will unlock your escrowed SNX first then it will start unlocking your SNX in your wallet to transfer.  
 
-If you had $1000 worth of SNX you would have been able to mint ~133 sUSD (at the 750% Collateralization Ratio). This would lock up all of your SNX, thus making it non-transferrable. You cant mint money then sell your collateral used to supply it. The minted amount must be burned. 
+If you had $1000 worth of SNX you would have been able to mint ~133 sUSD (at the 600% Collateralization Ratio). This would lock up all of your SNX, thus making it non-transferrable. You cant mint money then sell your collateral used to supply it. The minted amount must be burned. 
 
 So you now need to burn that 133 sUSD you minted (give or take any fluctuations in your debt) to unlock your SNX so you can transfer it. Mintr will tell you how much sUSD you need to burn to unlock your SNX.
 
@@ -71,9 +71,9 @@ You will now be able to mint from those escrowed SNX as they are also used as yo
 
 ## Why does the number of my staked SNX fluctuate? 
 
-If you've staked your SNX, you might have noticed that the number of staked SNX in your wallet can change. This is due to fluctuations in the SNX price. If you stake your SNX at a 750% Collateralisation Ratio, and the SNX value increases, then your C-Ratio will increase and some of your SNX will be unstaked. This is because only enough SNX to cover a 750% ratio will be staked. But then if the SNX value decreases, and your C-Ratio goes back to 750%, all of your SNX will be staked once again. 
+If you've staked your SNX, you might have noticed that the number of staked SNX in your wallet can change. This is due to fluctuations in the SNX price. If you stake your SNX at a 600% Collateralisation Ratio, and the SNX value increases, then your C-Ratio will increase and some of your SNX will be unstaked. This is because only enough SNX to cover a 600% ratio will be staked. But then if the SNX value decreases, and your C-Ratio goes back to 600%, all of your SNX will be staked once again. 
 
-If your C-Ratio is above 750%, you can always choose to stake the rest of your SNX by selecting 'Mint Max.' This will increase the number of staking rewards you are entitled to receive. 
+If your C-Ratio is above 600%, you can always choose to stake the rest of your SNX by selecting 'Mint Max.' This will increase the number of staking rewards you are entitled to receive. 
 
 ## How can I check exactly how many of my SNX are unlocked?
 
