@@ -5,7 +5,7 @@ sidebar_label: Strategies
 ---
 
 ## Liquidation risk
-A key factor to keep in mind when formulating a staking strategy is the risk of liquidation. As described in [the liquidation blog post](https://blog.synthetix.io/liquidation-faqs/) and [this liquidation proposal](https://sips.synthetix.io/sccp/sccp-25), your stake is at risk of liquidation if your collateral ratio (`C-RATIO`) has gone under 200%, and remained less than 500% for more than three days. You should aim to keep your `C-RATIO` well above that, and check it at least every three days. Note that these thresholds are subject to change.
+A key factor to keep in mind when formulating a staking strategy is the risk of liquidation. As described in <a href="https://blog.synthetix.io/liquidation-faqs/">the liquidation blog post</a> and <a href="https://sips.synthetix.io/sccp/sccp-25">this liquidation proposal</a>, your stake is at risk of liquidation if your collateral ratio (`C-RATIO`) has gone under 200%, and remained less than 500% for more than three days. You should aim to keep your `C-RATIO` well above that, and check it at least every three days. Note that these thresholds are subject to change.
 
 ## Conservative Strategy
 A conservative staker doesn't mint the maximum amount of sUSD, but instead targets an initial `C-RATIO` of 800%-900%. If the value of SNX increases and their ratio moves significantly above 900%, the conservative staker might consider minting more sUSD to restore the target ratio range. This staker will use sUSD minted to mirror the global synth portfolio on <a href="https://dashboard.synthetix.io/" class="link" target="_blank">Synthetix Dashboard</a>.
