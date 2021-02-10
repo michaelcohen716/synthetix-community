@@ -23,4 +23,6 @@ Traders can execute a transaction by selecting an input asset, an output asset a
 
 For trades exchanging a long asset for an inverse asset (e.g. sETH for iBTC), the fee is doubled. Crucially, there is no slippage. The spot price for 1 sETH is the same as for 100 sETH. 
 
-The Exchange interface allows the trader to choose from a range of transaction speeds. Beyond speed of transaction confirmation, selecting a slower or faster gas value won't affect the trade itself. However, if the network is highly congested, the trade may fail if the token is no longer available at the same price. 
+The Exchange interface allows the trader to choose from a range of transaction speeds. Beyond speed of transaction confirmation, selecting a slower or faster gas value won't affect the trade itself. However, if the network is highly congested, the trade may fail if the token is no longer available at the same price.
+
+As of the end of 2020, Synthetix has also supported shorting syntehtic assets at the contract level. In Feb 2020, <a href="https://synthetix.surge.sh/" target="_blank" class="link">a new interface</a> was implemented to help people take out a simple short. Before using this interface, be sure to read the important details about this new feature in the <a href="https://blog.synthetix.io/how-to-short-using-synthetix/" target="_blank" class="link">blog post</a> that announced it.
