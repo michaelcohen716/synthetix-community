@@ -8,9 +8,12 @@ In order to effectively compete with centralized alternatives, Synthetix intends
 
 Before using the <a href="https://staking.synthetix.io/" class="link" target="_blank">staking.synthetix.io</a> dapp to deposit your SNX to layer 2, be sure to review the links below. Layer 2's full functionality such as exchanges and transferring between wallets is currently in development, and the minimum time to withdraw back to layer 1 is currently 7 days.
 
-In January 2021, the team announced that staking on Synthetix Layer 2 is live. See the <a href="https://blog.synthetix.io/l2-mainnet-launch/" class="link" target="_blank">mainnet launch blog post</a> for details. You can find the the current rollout plan for Layer 2 <a href="https://blog.synthetix.io/the-optimistic-ethereum-transition/" class="link" target="_blank">here</a>.  For more details about how layer 2 works, further FAQ's and community members are ready to help in the <a href="https://discord.com/invite/AEdUHzt" class="link" target="_blank">layer2 channel on Discord</a>.
+You can find the the rollout plan for Layer 2 <a href="https://blog.synthetix.io/the-optimistic-ethereum-transition/" class="link" target="_blank">here</a>. 
 
 In May 2020, the team announced a Layer 2 demo launched in coordination with the Optimism team. See the team's <a href="https://blog.synthetix.io/synthetix-exchange-l2-demo/" class="link" target="_blank">blog post</a> for more info.
 
+In January 2021, staking on Synthetix Layer 2 went live. See the <a href="https://blog.synthetix.io/l2-mainnet-launch/" class="link" target="_blank">mainnet launch blog post</a> for details.  
 
+In March 2021, this <a href="https://blog.synthetix.io/oks-update/" class="link" target="_blank">blog post</a> gave an update on progress of the transition.
 
+For more details about how layer 2 works, further FAQ's and community members are ready to help in the <a href="https://discord.com/invite/AEdUHzt" class="link" target="_blank">layer2 channel on Discord</a>.
