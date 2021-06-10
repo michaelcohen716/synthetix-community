@@ -10,7 +10,7 @@ There are some limitations to transferring the SNX tokens in your wallet. You ca
 
 ## Burning sUSD
 
-To unlock staked tokens, press `Burn` on <a href="https://mintr.synthetix.io/" class="link" target="_blank">Mintr</a>. Press `View transferable SNX`. Here you'll be able to gauge how much SNX you can unlock for burning a given amount of sUSD. You'll need to burn enough sUSD to unlock *at least* the number of escrowed rewards tokens you have, before you'll be able to access transferable SNX. 
+To unlock staked tokens, press `Burn` on the Staking section of <a href="https://staking.synthetix.io/" class="link" target="_blank">staking.synthetix.io</a>. The staking section will show the amount of your transferrable SNX. Here you'll be able to gauge how much SNX you can unlock for burning a given amount of sUSD. You'll need to burn enough sUSD to unlock *at least* the number of escrowed rewards tokens you have, before you'll be able to access transferable SNX. 
 
 ## Fee Reclamation
 

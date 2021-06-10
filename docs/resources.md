@@ -17,9 +17,9 @@ sidebar_label: Resources
 
 - **<a class="link" target="_blank" href="https://blog.synthetix.io/2020-roadmap/">2020 Roadmap</a>**
 
-- **<a class="link" target="_blank" href="https://blog.synthetix.io/">Synthetix Blog</a>**: Product updates from the team
+- **<a class="link" target="_blank" href="https://blog.synthetix.io/synthetix-2021/">2021 Roadmap</a>**
 
-- **<a class="link" target="_blank" href="https://help.synthetix.io/">Synthetix Help Page</a>**: FAQs with detailed explanations
+- **<a class="link" target="_blank" href="https://blog.synthetix.io/">Synthetix Blog</a>**: Product updates from the team
 
 - **<a class="link" target="_blank" href="https://www.synthetix.io/tokens">Available Tokens (Synths)</a>**: List of tokens with descriptions, symbols, contract addresses
 
@@ -27,6 +27,7 @@ sidebar_label: Resources
 
 - **<a class="link" target="_blank" href="https://docs.synthetix.io/contracts/">Synthetix Smart Contracts</a>**
 
+- **<a class="link" target="_blank" href="https://blog.synthetix.io/l2-mainnet-launch/">Layer 2 Staking Goes Live</a>**
 
 ## From the Community
 
@@ -67,8 +68,6 @@ sidebar_label: Resources
 - **<a class="link" target="_blank" href="https://www.youtube.com/watch?v=YodjEPPE9cg">Kain's Ethereal 2020 talk</a>**: "Unstoppable Synthetix: How Synthetix Became Censorship-Resistant | Ethereal Virtual Summit 2020"
 
 ## Newsletters
-
-- **<a class="link" target="_blank" href="https://www.synthetix.io/community">Synthetix newsletter</a>**: Subscribe to the mailing list here for a monthly newsletter from the Synthetix team summarising the biggest news of the past month
 
 - **<a class="link" target="_blank" href="https://mailchi.mp/blocklytics/synthetix-report-1">Blocklytics Report</a>**: A weekly summary of news and stats timed to also provide a reminder to claim rewards before the end of the fee period
 

@@ -6,8 +6,8 @@ sidebar_label: Claiming Rewards
 
 ## Basic Steps
 - Rewards are calculated and made available once per week on Wednesdays.
-- Use <a class="link" target="_blank" href="https://mintr.synthetix.io/">Mintr</a> to navigate to the `Claim` section.
-- Ensure that your collateralization ratio is high enough to claim: the required ratio is 800%, but if you're within 1% (i.e., above ~792%), you'll be able to claim. If not, you'll have to <a href="/docs/buying-snx" class="link"> buy more SNX</a> or <a href="/docs/transferring-snx#burning-susd" class="link">burn sUSD</a> to restore your `C-RATIO`.
+- Use <a class="link" target="_blank" href="https://staking.synthetix.io/">staking.synthetix.io</a> to navigate to the `Claim` section.
+- Ensure that your collateralization ratio is high enough to claim: the required ratio is 600%, but if you're within 1% (i.e., above ~594%), you'll be able to claim. If not, you'll have to <a href="/docs/buying-snx" class="link"> buy more SNX</a> or <a href="/docs/transferring-snx#burning-susd" class="link">burn sUSD</a> to restore your `C-RATIO`.
 - Press `Claim Now` to collect both your sUSD and SNX weekly rewards.
 - As of the Hadar release, you'll have to claim every week. After the fee period has ended, your rewards will be pooled back in with the communal rewards pool.
 - Claimed SNX rewards are `escrowed` for 1 year. You won't be able to transfer or sell them.
@@ -15,7 +15,7 @@ sidebar_label: Claiming Rewards
 There is a <a class="link" target="_blank" href="https://github.com/Synthetixio/SIPs/issues/58">current proposed SIP</a> to make rewards calculation dynamic and phase out the snapshot model, in favor of time-based rewards.
 
 ## Managing Debt
-Your `C-RATIO` can change without any direct action by you. There's a <a href="https://help.synthetix.io/hc/en-us/articles/360023174973-Why-does-my-total-sUSD-debt-fluctuate-over-time-" target="_blank" class="link">detailed explanation here</a> on why global debt fluctuates over time. In simple terms, the global debt - and your pro rata slice of it - will increase if traders on Synthetix Exchange are profitable and decrease if they are unprofitable.
+Your `C-RATIO` can change without any direct action by you. In simple terms, the global debt - and your pro rata slice of it - will increase if traders on Synthetix Exchange are profitable and decrease if they are unprofitable.
 
 As of February 2020, the vast majority of traders on Synthetix are long `sETH` and `sBTC`, synthetic ether and bitcoin. There's a section called `Synths Distribution` on the <a href="https://dashboard.synthetix.io/" class="link" target="_blank">Synthetix Dashboard</a> with up-to-date stats on positioning. 
 

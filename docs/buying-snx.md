@@ -12,7 +12,7 @@ The easiest place to buy SNX is on <a target="_blank" class="link" href="https:/
 
 <a href="https://dex.ag/" target="_blank" class="link">DEX.AG</a> and <a href="https://1inch.exchange/#/" target="_blank" class="link">1Inch.exchange</a> are good decentralized aggregators designed to find the best price.
 
-<a href="https://www.kucoin.com/" target="_blank" class="link">Kucoin</a> and <a href="https://poloniex.com/exchange#btc_snx" target="_blank" class="link">Poloniex</a> are more conventional centralized exchange options.
+<a href="https://www.kucoin.com/" target="_blank" class="link">Kucoin</a>, <a href="https://www.coinbase.com/" target="_blank" class="link">Coinbase</a>, and <a href="https://poloniex.com/exchange#btc_snx" target="_blank" class="link">Poloniex</a> are more conventional centralized exchange options.
 
 For charting, limit orders, stop orders, and other more advanced trading strategies, <a href="https://dex.blue/trading/#SNX/ETH" target="_blank" class="link">dex.blue</a> is a decentralized platform that pulls from several liquidity pools. 
 
